@@ -3,17 +3,17 @@ project:
   output-dir: _site
 
 website:
-  title: "Course Template"
-  site-url: https://coursename.juanpaulo.xyz/course
-  favicon: ../images/favicon.ico
+  title: "Política del Lenguaje"
+  site-url: https://politicadellenguaje.juanpaulo.xyz/course
+  favicon: ../../images/favicon.ico
   navbar:
     left:
       - href: index.qmd
         text: Inicio
       - href: about.qmd
         text: Sobre este curso
-      - href: tutorials/index.qmd
-        text: Tutoriales
+      - href: references.qmd
+        text: Bibliografía
 
 lang: es
 
