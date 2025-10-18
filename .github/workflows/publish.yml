@@ -1,0 +1,36 @@
+name: Publish Quarto Site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: quarto-dev/quarto-actions/setup@v2
+      
+      - name: Render Quarto Project
+        run: |
+          cd course
+          quarto render
+          
+      - name: Prepare deployment
+        run: |
+          mkdir -p _deploy
+          cp index.html _deploy/
+          cp style.css _deploy/
+          cp CNAME _deploy/
+          cp -r course/_site _deploy/course
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _deploy

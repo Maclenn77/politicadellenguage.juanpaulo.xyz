@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Course Template"
+  site-url: https://coursename.juanpaulo.xyz/course
+  favicon: ../images/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Sobre este curso
+      - href: tutorials/index.qmd
+        text: Tutoriales
+
+lang: es
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-title: "En esta unidad"
+    code-fold: false
+    code-tools: true
+    filters:
+      - pyodide
