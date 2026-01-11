@@ -1,0 +1,12 @@
+---
+title: "Introducción a las políticas del lenguaje"
+subtitle: "Políticas del lenguaje: Tres periodos del campo de estudio"
+author: "J. P. Pérez-Tejada"
+date: "2026-01-11"
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---

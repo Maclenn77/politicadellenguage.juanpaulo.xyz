@@ -1,0 +1,42 @@
+---
+title: "Clase 1: ¿Qué son las políticas del lenguaje?"
+subtitle: "Presentación del curso"
+author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
+date: "2026-01-11"
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+## ¿Cómo surgió mi interés por las políticas del lenguaje?
+
+Mi interés por la lingüística surgió a partir de mi vinculación con el zapatismo. Cuando era estudiante del Colegio de Ciencias y Humanidades, visité por primera vez el territorio autónomo en resistencia de la Zona Norte, perteneciente al Caracol 5 de Roberto Barrios. En ese entonces me adherí a los promotores de educación y propuse impartir talleres de ajedrez con tableros que hice con la ayuda de mi maestra de química. Los talleres de ajedrez fueron un fracaso, pero aprendí mucho de las comunidades que me recibieron, hablantes de ch'ol de Sabanilla. A partir de entonces, mi interés por la química desapareció poco a poco, mientras que me intrigaba cada vez más las particularidades de nuestros códigos de comunicación, que Saussure comparaba con el juego de ajedrez (Pérez Tejada, [2024](../references.html#PerezTejada2024), p. 11).
+
+Por ello, podría decir que este interés siempre ha estado permeado por un elemento político.
+
+### Las políticas del lenguaje desde abajo
+
+En alguna ocasión, al revisar los censos de población hablante de lengua indígena en 2005, me llamó la atención que la población hablante que más crecía en números absolutos estaba vinculada con procesos de resistencia, como era el caso de los pueblos en zona de influencia zapatista, mixes y yaquis. Notaba que al hablarse de las políticas del lenguaje de México, los autores siempre se centraban en las políticas dictadas por el Estado, pero ignoraban los propios procesos de las mismas comunidades. Esta fue una tendencia constante de las políticas indigenistas mexicanas, en las que difícilmente se reconocía a la población indígena como actores.
+
+Como mi experiencia más cercana se encontraba con las comunidades zapatistas, quise que mi tesis documentara las políticas del lenguaje de estas comunidades en resistencia. Algunas de estas políticas se expresaron de manera explícita en comunicados del EZLN, mientras que otras solo se podían experimentar directamente en la convivencia con las comunidades. En mi última visita, en el Caracol 1 de La Realidad, me llamó la atención que los compañeros bases de apoyo más grandes reportaban haber aprendido español en el trabajo, mientras que los más jóvenes decían haber aprendido en la escuelita zapatista, la cual es bilingüe y enseña a escribir tanto en español como en la lengua del caracol.
+
+Para mí era obvio que un componente importante en la conservación y revitalización de las lenguas indígenas estaba en las escuelas autónomas, sin que esto significara una marginalización para las comunidades. La enseñanza de español era importante, pero ya no con el objetivo del indigenismo, que pretendía absorberlas a la comunidad nacional, sino para la resistencia, pues este les permite comunicarse entre comunidades que no comparten la misma lengua.
+
+### El giro hacia el archivo
+
+No me fue posible ahondar en esta intuición. En 2013, los caracoles decidieron cerrar temporalmente a las visitas, además de que en ese tiempo se me dificultaba costearme el trabajo de campo necesario para la tesis. En ese mismo año comencé a trabajar como asistente del maestro Sergio Ricco, quien era profesor investigador de la Universidad Pedagógica Nacional y trabajaba en la revisión de *América Indígena*, revista editada por el Instituto Indigenista Interamericano.
+
+Debido a que el profesor Ricco había perdido la vista, me convertí en sus ojos y le leí todo lo que él necesitaba leer, que en ese entonces eran los cincuenta años de la revista *América Indígena*. Al trabajar con el profesor Ricco, me interesé en los primeros esfuerzos institucionales de promover la alfabetización en lengua indígena (Pérez Tejada, 2024, p. 12).
+
+### Políticas de arriba hacia abajo vs. políticas de abajo hacia arriba
+
+Hay una diferencia fundamental entre los esfuerzos institucionales del indigenismo y los de las comunidades zapatistas, porque unos vienen de arriba hacia abajo (*top-down*) y otros de abajo hacia arriba (*bottom-up*) (véase Sabatier, [1989](../references.html#Sabatier1986)). Las propuestas de los primeros años del indigenismo mexicano coinciden muchas veces con el zapatismo, pero los modos son diferentes. También los métodos para estudiar cada política eran diferentes. En uno requería trabajo de campo, en otro el trabajo forzosamente debía ser de archivo.
+
+Por este cambio de tema, me vi obligado a pensar de diferentes maneras las políticas del lenguaje y cómo pueden abordarse para su estudio. Para mí, Bernard Spolsky representó la propuesta más sistematizada para su estudio, al integrar en un marco teórico las contribuciones de la etnografía de la comunicación y la sociolingüística, sin ignorar la influencia de las relaciones de poder que suelen ser tema de la ciencia política (Spolsky, [2004](../references.html#Spolsky2004), [2009](../references.html#Spolsky2009), [2012](../references.html#Spolsky2012)).
+
+Es esta la perspectiva la que adoptaré para introducirlos a las políticas del lenguaje, un campo de estudio que aborda cómo los gestores de la lengua influyen, o al menos buscan influir en los códigos que otras personas utilizan para comunicarse en diferentes comunidades de habla.
+
+[Siguiente tema](./01_que_es_politica_del_lenguaje.html)

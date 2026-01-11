@@ -1,0 +1,77 @@
+---
+title: "Referencias"
+---
+:::{#Fishman1965}
+Fishman, J. (1965). «Who Speaks What Language to Whom and When?» en La Linguistique, 1(2), 67-88. (consultado en línea desde http://www.jstor.org/stable/30248773 el 9 de abril de 2021)
+:::
+:::{#Fishman1972}
+Fishman, J.A.:(1972). «Domains and the relationship between micro- and macro- sociolinguistics», en J.J. Gumperz & D. Hymes (eds.), Directions in Sociolinguistics: The Ethnography of Communication, Holt, Rinehart & Winston, pp. 435–453.
+:::
+:::{#Fishman1991}
+Fishman, J. A. (1991). Reversing language shift: Theoretical and empirical foundations of assistance to threatened languages. Multilingual Matters.
+:::
+:::{#Fishman2001}
+Fishman, J. A. (2001). Can threatened languages be saved? Reversing language shift, revisited: A 21st century perspective. Multilingual Matters.
+:::
+:::{#Hamel1993}
+Hamel, R. E. (1993). «Sociolinguistic theory and language policy» en Language & Communication, 13(2), 107-120.
+:::
+:::{#Haugen1959}
+Haugen, E. (1959). «Planning for a standard language in modern Norway» en *Anthropological linguistics*, 8-21.
+:::
+:::{#Haugen1972}
+Haugen, E. (1972) The Ecology of Language. Standford. CA. Stanford University Press.
+:::
+:::{#Hechter2000}
+Hechter, M. (2000). Containing nationalism. Oxford University Press.
+:::
+:::{#Hymes1972}
+Hymes, D. (1972). «On communicative competence» en Sociolinguistics. pp. 269-293.
+:::
+:::{#Kymlicka2001}
+Kymlicka, W. (2001) *Politics in the Vernacular Nationalism, Multiculturalism, and Citizenship*. Oxford.
+:::
+:::{#KymlickaPatten2004}
+Kymlicka, W. y Patten, A. (2004): *Language Rights and Political Theory*, Oxford.
+:::
+:::{#PerezTejada2024}
+Pérez Tejada Ladrón de Guevara, J. P. (2024). La alfabetización
+en lengua materna en México (1939-1959): Las Políticas
+del lenguaje durante los primeros años del indigenismo
+mexicano [Tesis de licenciatura, Escuela Nacional de
+Antropología e Historia].
+:::
+:::{#Ricento2000}
+Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. Journal of Sociolinguistics, 4, 196-213.
+:::
+
+:::{#Sabatier1986}
+Sabatier, P. A. (1986). Top-Down and Bottom-Up Approaches to Implementation Research: a Critical Analysis and Suggested Synthesis. Journal of Public Policy, 6(1), 21–48. doi:10.1017/S0143814X00003846
+:::
+:::{#Schiffman1996}
+Schiffman, H. (1996). Linguistic culture and language policy. Taylor & Francis Group.
+:::
+:::{#Shohamy2006}
+Shohamy, E. (2006). Language policy: Hidden agendas and new approaches. London: Routledge.
+:::
+::: {#Spolsky2004}
+Spolsky, B. (2004). Language policy. Cambridge: Cambridge University Press.
+:::
+::: {#Spolsky2009}
+Spolsky, B. (2009). Language policy and language assessment. New York, NY: Cambridge Univ. Press.
+:::
+::: {#Spolsky2012}
+Spolsky, B. (Ed.). (2012). The Cambridge Handbook of Language Policy (Cambridge Handbooks in Language and Linguistics). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979026
+:::
+:::{#ThomasonKaufman1988}
+Thomason, S. G., & Kaufman, T. (1988). Language contact, creolization, and genetic linguistics. University of California Press.
+:::
+:::{#VanDijk1998}
+Van Dijk, T. A. (1998). Ideology: A multidisciplinary approach. Sage Publications.
+:::
+:::{#Weinreich1953}
+Weinreich, U. (1953). Languages in contact: Findings and problems. New York: Linguistic Circle of New York.
+:::
+:::{#Winford2003}
+Winford, D. (2003). An introduction to contact linguistics. Malden, MA: Blackwell Publishing.
+:::
