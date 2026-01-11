@@ -320,7 +320,7 @@ ul {
     list-style: none;
 }
 
-ul li::before {
+section ul li::before {
     content: "●";
     color: #FFD700;
     font-weight: bold;
@@ -329,7 +329,7 @@ ul li::before {
     margin-left: -1em;
 }
 
-ul li {
+section ul li {
     margin-left: 1em;
     margin-bottom: 10px;
 }
