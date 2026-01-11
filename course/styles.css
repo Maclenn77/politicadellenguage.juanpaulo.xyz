@@ -331,4 +331,5 @@ section ul li::before {
 
 section ul li {
     margin-left: 1em;
-    margin
+    margin-bottom: 10px;
+}
