@@ -5,4 +5,7 @@ title: "Política del Lenguaje"
 ## Curso de Políticas del lenguaje (ENAH, 2026-1)
 
 ### Semana 01: Introducción al curso
-- [Presentació
+- [Presentación del curso](./guia/00_01.html)
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -29,9 +29,4 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
-    toc-title: "En esta unidad"
-    code-fold: false
-    code-tools: true
-    filters:
-      - pyodide
+    toc: tru

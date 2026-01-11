@@ -1,5 +1,58 @@
 ---
 title: "Sobre este curso"
+date-modified: today
+format:
+  html:
+    html-math-method: mathjax
 ---
 
-About this site
+
+## Datos del curso
+
+**Nivel:** Licenciatura en Lingüística  
+**Duración:** 16 semanas (64 horas totales)  
+**Modalidad:** Presencial  
+**Sesiones:** 4 horas semanales  
+**Imparte:** [J. P. Pérez-Tejada](https://docs.google.com/document/d/1vguOESyjfUYPqJK11b1W-fviuLWTu3hxMQxS_8XKaKg/edit?usp=sharing)
+
+## Descripción
+El curso se fundamenta en la propuesta de Spolsky (2004, 2009, 2012), que concibe las políticas del lenguaje como la interacción entre prácticas lingüísticas, creencias sobre la lengua y gestión lingüística. Se integran conceptos de Haugen, Fishman, Gumperz, Hymes y Ferguson, aplicándolos al análisis del caso mexicano.
+
+## Objetivo general
+
+Analizar las políticas del lenguaje desde perspectivas teóricas y aplicarlas para comprender las políticas lingüísticas en México.
+
+## Objetivos específicos
+
+- Comprender los conceptos fundamentales de las políticas del lenguaje y su desarrollo como campo de estudio
+- Aplicar herramientas conceptuales (comunidad de habla, dominio, diglosia, actitudes lingüísticas) al análisis de situaciones sociolingüísticas
+- Examinar críticamente las políticas lingüísticas implementadas en México en diferentes periodos históricos
+- Realizar un análisis etnográfico de políticas del lenguaje en una comunidad o dominio específico
+
+## Licencia y uso de materiales
+<div align="center">
+
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+</div>
+Los materiales disponibles en este sitio web están bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
+Esto significa que puedes:
+
+- **Compartir**: copiar y redistribuir el material en cualquier medio o formato
+- **Adaptar**: remezclar, transformar y construir a partir del material
+
+Bajo los siguientes términos:
+
+- **Atribución**: Debes dar crédito apropiado, proporcionar un enlace a la licencia e indicar si se realizaron cambios
+- **No comercial**: No puedes utilizar el material con fines comerciales
+
+Para cualquier uso que exceda estos términos, por favor contacta al autor.
+
+**Cómo citar estos materiales**
+
+**APA**:
+Pérez-Tejada, J. P. (2026). Política del Lenguaje [Materiales del curso]. https://politicadellenguaje.juanpaulo.xyz
+
+**MLA**:
+Pérez-Tejada, Juan Paulo. "Política del Lenguaje". Materiales del curso, 2026, politicadellenguaje.juanpaulo.xyz.
+
