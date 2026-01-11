@@ -1,0 +1,484 @@
+---
+title: "Políticas del Lenguaje"
+subtitle: "Semana 1: Introducción al curso y conceptos básicos"
+author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
+date: "2026-01-11"
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+## Datos generales de la sesión
+
+**Duración:** 4 horas  
+**Modalidad:** Presencial  
+**Semestre:** Sexto semestre de Licenciatura en Lingüística
+
+---
+
+## Estructura de la sesión
+
+| Bloque | Tiempo | Actividad |
+|--------|--------|-----------|
+| 1 | 30-40 min | Presentación profesor/alumnos + presentación del programa |
+| 2 | 40-50 min | Actividad diagnóstica sobre nociones previas |
+| 3 | 40-50 min | Introducción al concepto de políticas del lenguaje |
+| --- | 15 min | **DESCANSO** |
+| 4 | 60 min | Aplicación de conceptos con ejemplos/casos concretos |
+| 5 | 30 min | Cierre y asignación de lecturas |
+
+---
+
+## Bloque 1: Presentaciones y programa del curso (30-40 min)
+
+### Presentación del profesor (5-7 min)
+
+- Breve biografía académica
+- Áreas de interés e investigación
+- Por qué te interesa la disciplina de políticas del lenguaje
+- Qué esperas del curso junto con los estudiantes
+
+### Dinámica de presentación de estudiantes (15-20 min)
+
+**Instrucciones:**
+
+1. **Formar parejas** (2-3 minutos para conocerse)
+2. Cada persona comparte con su pareja:
+   - Nombre
+   - De dónde es
+   - Una lengua que habla además del español (si aplica)
+   - Qué espera del curso
+3. **Presentación cruzada al grupo**: Cada quien presenta a su compañero/a (no a sí mismo/a)
+
+:::{.callout-note}
+### Nota para el profesor
+Esta dinámica reduce la ansiedad de presentarse a sí mismo y genera escucha activa desde el inicio del curso.
+:::
+
+### Presentación del programa (10-15 min)
+
+#### Descripción del curso
+
+Este curso introduce al campo interdisciplinario de las políticas del lenguaje, combinando perspectivas teóricas con el análisis del caso mexicano. Examinaremos cómo las sociedades gestionan, planifican y regulan el uso de las lenguas, explorando la evolución histórica del campo desde sus fundadores hasta los enfoques contemporáneos.
+
+El curso enfatiza la aplicación de marcos conceptuales como **comunidad de habla**, **actitudes lingüísticas**, **dominio** y **diglosia** al contexto mexicano, desde la época colonial hasta la actualidad.
+
+#### Objetivos de aprendizaje
+
+Al finalizar el curso, los estudiantes serán capaces de:
+
+1. **Definir y explicar** los conceptos fundamentales de las políticas del lenguaje
+2. **Identificar y comparar** las principales perspectivas teóricas en el campo, desde Haugen hasta Spolsky
+3. **Aplicar** conceptos como comunidad de habla, dominio, diglosia y actitudes lingüísticas al análisis de situaciones sociolingüísticas
+4. **Analizar críticamente** las políticas lingüísticas implementadas en México desde la época colonial
+5. **Realizar** un análisis etnográfico de políticas del lenguaje en una comunidad o dominio específico
+
+#### Contenido temático (panorama general)
+
+**Unidad 1:** Fundamentos de las políticas del lenguaje (Semanas 1-3)  
+**Unidad 2:** Herramientas conceptuales para el análisis (Semanas 4-7)  
+**Unidad 3:** Políticas del lenguaje en contextos comparados (Semanas 8-9)  
+**Unidad 4:** Políticas del lenguaje en México (Semanas 10-15)  
+**Unidad 5:** Trabajo final y cierre (Semana 16)
+
+#### Criterios de evaluación (para discusión)
+
+**Propuesta base del profesor:**
+
+| Componente | Criterio | Calificación base |
+|-----------|----------|-------------------|
+| **Entrega de tareas** | Todas las tareas entregadas | |
+| **Asistencia** | 80% mínimo del semestre | |
+| **Resultado** | Si se cumplen ambos criterios | **8** |
+
+**Para obtener calificación superior:**
+
+- **Calificación 9**: Requiere esfuerzo adicional como:
+  - Enriquecer clases con participaciones pertinentes
+  - Ayudar a otros alumnos en su aprendizaje
+  - Asesorar a compañeros sin nivel suficiente de inglés para las lecturas
+  - Otras contribuciones acordadas
+
+- **Calificación 10**: Requiere desempeño excepcional a lo largo del curso
+
+**Puntos para discutir en grupo:**
+
+1. ¿Qué les parece esta propuesta? ¿Algo les genera dudas o les parece injusto?
+2. ¿Qué consideran una "participación pertinente"?
+3. ¿Cómo se imaginan el proceso de asesoría entre compañeros?
+4. ¿Qué sería un "desempeño excepcional" para ustedes?
+
+:::{.callout-important}
+### Aclaración sobre asistencia
+El 80% de asistencia se calcula sobre el total de sesiones del semestre completo (16 semanas). Esto significa que pueden faltar hasta 3 sesiones por cualquier motivo.
+:::
+
+#### Trabajo final
+
+Análisis etnográfico de políticas del lenguaje en una comunidad de habla o dominio específico (educativo, laboral, religioso, mediático, etc.). 
+
+**Entregas:**
+- Propuesta de tema (Semana 7): 1-2 páginas
+- Avance (Semana 12): 5-7 páginas con bibliografía
+- Trabajo final (Semana 16): 15-20 páginas
+
+---
+
+# Bloque 2: Actividad diagnóstica (40-50 min)
+
+### Objetivo
+
+Explorar las nociones previas que tienen los estudiantes sobre políticas del lenguaje y activar conocimientos previos de cursos anteriores (como Antropología y Lenguaje).
+
+### Preguntas detonadoras para plenaria
+
+:::{.callout-tip}
+### Dinámica de la actividad
+El profesor lanza cada pregunta y modera la discusión, permitiendo que varios estudiantes participen antes de pasar a la siguiente. Toma notas de las respuestas para identificar conceptos que necesitan reforzarse.
+:::
+
+#### Pregunta 1: Imaginando la disciplina (10 min)
+
+**"Cuando escuchan 'Políticas del Lenguaje' como nombre de una disciplina o campo de estudio, ¿qué se imaginan que estudia?"**
+
+Posibles direcciones de la conversación:
+- ¿Leyes sobre idiomas?
+- ¿Cómo se enseñan las lenguas?
+- ¿Decisiones gubernamentales sobre educación?
+- ¿Preservación de lenguas indígenas?
+
+#### Pregunta 2: Casos concretos (15 min)
+
+**"¿Pueden pensar en alguna situación en México donde el gobierno o alguna institución haya tomado decisiones relacionadas con qué lengua(s) se usan o cómo se usan?"**
+
+Ejemplos que podrían surgir:
+- Educación bilingüe
+- Señalización en lenguas indígenas
+- Requisitos de idiomas en escuelas
+- Lenguas en documentos oficiales
+- Campañas de alfabetización
+
+#### Pregunta 3: Experiencia personal (10 min)
+
+**"¿Han experimentado situaciones donde alguien (familia, maestros, amigos) les haya corregido o comentado algo sobre 'cómo deben hablar'? ¿Qué les dijeron?"**
+
+Esta pregunta conecta con el concepto de Spolsky de que las políticas operan desde el nivel individual hasta el institucional.
+
+#### Pregunta 4: Conexión con cursos previos (10 min)
+
+**"En Antropología y Lenguaje, ¿discutieron temas relacionados con diversidad lingüística, comunidades de habla, o actitudes hacia las lenguas? ¿Qué recuerdan?"**
+
+Esta pregunta ayuda a identificar qué conceptos ya conocen y cuáles necesitan introducirse desde cero.
+
+---
+
+# Bloque 3: Introducción al concepto de políticas del lenguaje (40-50 min)
+
+### ¿Qué son las políticas del lenguaje? (15 min)
+
+Las políticas del lenguaje son un campo interdisciplinario que estudia las **decisiones** relacionadas con el uso de las lenguas en una sociedad. Estas decisiones pueden ocurrir en múltiples niveles:
+
+- **Nivel individual/familiar**: Cuando una abuela corrige la pronunciación de su nieto
+- **Nivel comunitario**: Cuando una comunidad decide en qué lengua realizar sus asambleas
+- **Nivel institucional**: Cuando una escuela establece qué lengua(s) se usarán en el aula
+- **Nivel estatal**: Cuando un gobierno declara lenguas oficiales en su constitución
+
+#### Definición de trabajo
+
+> Las políticas del lenguaje estudian **las elecciones que hacen los hablantes sobre el uso de la lengua**, desde el nivel más micro (elegir una palabra en vez de otra) hasta el nivel más macro (planificación lingüística nacional).
+
+Esta definición se basa en el trabajo de **Bernard Spolsky** (2004, 2009), quien considera que "las políticas del lenguaje tienen todo que ver con elecciones" (Spolsky, 2009, p. 1).
+
+### El marco tripartito de Spolsky (20 min)
+
+Spolsky propone que las políticas del lenguaje se componen de **tres elementos** que operan en cualquier comunidad de habla:
+
+#### 1. Prácticas lingüísticas (Language Practices)
+
+**¿Qué es?** Lo que los hablantes **efectivamente hacen** con el lenguaje. El comportamiento observable y las elecciones lingüísticas reales.
+
+**Ejemplo:** En una familia bilingüe español-náhuatl, los abuelos hablan náhuatl entre ellos, los padres hablan español con los hijos, pero los hijos responden en español incluso cuando les hablan en náhuatl.
+
+#### 2. Creencias sobre la lengua (Language Beliefs/Ideology)
+
+**¿Qué es?** Lo que las personas **piensan** sobre las lenguas. Incluye el valor o estatus asignado a una lengua, las actitudes lingüísticas y las ideologías.
+
+**Ejemplo:** La creencia de que "el español correcto es el que se habla en la capital" o que "hablar una lengua indígena es un obstáculo para el progreso económico".
+
+#### 3. Gestión de la lengua (Language Management)
+
+**¿Qué es?** Los **esfuerzos explícitos** realizados para cambiar las prácticas o creencias sobre la lengua. Puede ser realizado por individuos, comunidades o instituciones.
+
+**Ejemplo:** Una ley que declara lenguas oficiales, un programa de revitalización lingüística, o una academia que dicta normas ortográficas.
+
+:::{.callout-note}
+### Relación entre los tres componentes
+Estos tres elementos interactúan constantemente. La gestión busca cambiar las prácticas, pero está influenciada por las creencias. Las prácticas, a su vez, pueden modificar las creencias con el tiempo.
+:::
+
+### Políticas explícitas vs. políticas implícitas (10 min)
+
+#### Políticas explícitas
+
+Son aquellas que están **formalmente establecidas** y documentadas:
+
+- Artículos constitucionales sobre lenguas oficiales
+- Leyes de derechos lingüísticos
+- Reglamentos escolares sobre lengua de instrucción
+- Normas ortográficas oficiales
+
+**Ejemplo en México:** El Artículo 2° constitucional que reconoce a México como nación pluricultural y la Ley General de Derechos Lingüísticos de los Pueblos Indígenas (2003).
+
+#### Políticas implícitas
+
+Son aquellas que operan **sin estar formalmente declaradas**, pero que tienen efectos reales en el uso de las lenguas:
+
+- Prácticas de corrección lingüística en el hogar
+- Preferencias de lengua en contextos laborales
+- Prestigio asociado a ciertas variedades lingüísticas
+- Ausencia de traducción en servicios públicos
+
+**Ejemplo:** Aunque México es oficialmente plurilingüe, la mayoría de los trámites gubernamentales solo están disponibles en español, lo cual constituye una política implícita de castellanización.
+
+:::{.callout-important}
+### Punto clave
+Las políticas implícitas a menudo son más poderosas que las explícitas porque operan de manera naturalizada y son más difíciles de cuestionar o cambiar.
+:::
+
+---
+
+## DESCANSO (15 minutos)
+
+---
+
+## Bloque 4: Aplicación de conceptos con casos concretos (60 min)
+
+### Actividad 4.1: Reconociendo políticas en la vida cotidiana (20 min)
+
+#### Instrucciones
+
+1. **Formar equipos de 3-4 personas**
+2. Leer las cuatro viñetas que se presentan a continuación
+3. Para cada viñeta, identificar:
+   - ¿Hay una política del lenguaje operando? ¿Cuál?
+   - ¿Es explícita o implícita?
+   - ¿Qué componentes del marco de Spolsky identifican? (práctica/creencia/gestión)
+
+#### Viñeta 1: Corrección familiar
+
+Una familia está cenando. El nieto de 8 años dice: "Abuela, ayer **haiga** ido al parque con mis amigos". La abuela responde: "No se dice 'haiga', mi amor. Se dice 'haya'. Repite: 'ayer haya ido'". El niño repite correctamente y continúa contando su historia.
+
+#### Viñeta 2: Señalización bilingüe
+
+En las oficinas del registro civil de Oaxaca, los letreros aparecen tanto en español como en zapoteco: "Registro Civil / Dxuladi xhiña guidxi". Sin embargo, todos los formatos y documentos oficiales están únicamente en español, y ningún funcionario habla zapoteco.
+
+#### Viñeta 3: Español formal académico
+
+Un profesor universitario explica en la primera clase: "Los ensayos para este curso deben estar escritos en un español formal. No quiero ver regionalismos como 'ahorita', 'órale' o 'chido'. Tampoco quiero anglicismos innecesarios. Usen un lenguaje académico apropiado".
+
+#### Viñeta 4: Ley de derechos lingüísticos
+
+La Ley General de Derechos Lingüísticos de los Pueblos Indígenas (2003) establece que las lenguas indígenas son lenguas nacionales con la misma validez que el español, y que los hablantes tienen derecho a comunicarse en su lengua en todos los ámbitos, incluidos los procedimientos legales.
+
+:::{.callout-tip}
+### Preguntas guía para el análisis
+
+- ¿Quién ejerce autoridad sobre el uso de la lengua en cada caso?
+- ¿Qué lengua o variedad se promueve/rechaza?
+- ¿Hay consecuencias reales para quienes no sigan estas políticas?
+- ¿Las políticas explícitas se reflejan en las prácticas reales?
+:::
+
+#### Plenaria (última parte de la actividad)
+
+Cada equipo comparte brevemente sus conclusiones sobre UNA de las viñetas (5 minutos total para todos los equipos).
+
+---
+
+### Actividad 4.2: Del individuo a la institución (20 min)
+
+#### Instrucciones
+
+Tomando **una de las viñetas anteriores** que haya generado más discusión, los equipos deben trazar cómo esa política se conecta en distintos niveles:
+
+**Nivel micro (individual/familiar):**  
+¿Qué decisión lingüística toma la persona? ¿Por qué?
+
+**Nivel meso (comunitario/institucional):**  
+¿Qué normas comunitarias o institucionales influyen en esa decisión?
+
+**Nivel macro (estatal/nacional):**  
+¿Hay políticas explícitas del Estado que se relacionen con esta situación?
+
+#### Ejemplo con la Viñeta 1 (corrección familiar)
+
+**Nivel micro:** La abuela corrige al niño porque considera que "haiga" es incorrecto
+
+**Nivel meso:** Esta corrección refleja normas educativas que aprendió en la escuela y que se refuerzan en medios de comunicación
+
+**Nivel macro:** El sistema educativo nacional enseña una variedad estándar del español y evalúa a los estudiantes según estas normas
+
+#### Plenaria (última parte de la actividad)
+
+2-3 equipos comparten su análisis multinivel (7 minutos total).
+
+---
+
+### Actividad 4.3: Política del lenguaje en mi contexto (15 min)
+
+#### Reflexión individual (5 min)
+
+Cada estudiante escribe brevemente en su cuaderno:
+
+1. **Una política del lenguaje explícita** que haya experimentado personalmente
+   - (Ejemplo: reglamento de una escuela, requisito de inglés para graduarse, etc.)
+
+2. **Una política del lenguaje implícita** que haya experimentado personalmente
+   - (Ejemplo: burlas por acento regional, presión para no hablar lengua indígena en público, etc.)
+
+#### Compartir en plenaria (10 min)
+
+3-4 estudiantes comparten voluntariamente sus ejemplos. El profesor conecta cada ejemplo con los conceptos vistos en la sesión.
+
+:::{.callout-note}
+### Reflexión de cierre para el profesor
+Enfatizar que las políticas del lenguaje están presentes en todos los ámbitos de nuestra vida, desde las conversaciones más íntimas hasta las leyes nacionales. El objetivo del curso es desarrollar herramientas conceptuales para identificar, analizar y comprender críticamente estas políticas.
+:::
+
+---
+
+# Bloque 5: Cierre y asignación de lecturas (30 min)
+
+### Síntesis de la sesión (10 min)
+
+#### Conceptos clave introducidos hoy
+
+1. **Políticas del lenguaje**: Estudio de las decisiones sobre el uso de las lenguas en todos los niveles sociales
+
+2. **Marco tripartito de Spolsky**:
+   - Prácticas lingüísticas (lo que hacemos)
+   - Creencias sobre la lengua (lo que pensamos)
+   - Gestión de la lengua (esfuerzos por cambiar prácticas/creencias)
+
+3. **Políticas explícitas vs. implícitas**:
+   - Explícitas: formalmente establecidas y documentadas
+   - Implícitas: operan sin declaración formal pero con efectos reales
+
+4. **Multinivel**: Las políticas operan desde el individuo hasta el Estado
+
+#### Puente hacia la siguiente sesión
+
+> "Hoy vimos **qué son** las políticas del lenguaje y cómo operan en nuestro contexto inmediato. La próxima semana exploraremos **cómo surgió** este campo de estudio: ¿cuándo y por qué los académicos comenzaron a estudiar sistemáticamente las políticas del lenguaje? ¿Qué problemas sociales e históricos motivaron este interés?"
+
+---
+
+### Introducción a las lecturas para la Semana 2 (10 min)
+
+Para la próxima sesión, estudiaremos los orígenes históricos de la disciplina de políticas del lenguaje y su desarrollo como campo de estudio.
+
+#### Lecturas asignadas (elegir UNA)
+
+**Opción 1 (en español):**  
+Hamel, R. E. (1993). Políticas y planificación del lenguaje: una introducción. *Iztapalapa*, 29, 5-39.
+
+**Opción 2 (en inglés):**  
+Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. *Journal of Sociolinguistics*, 4, 196-213.
+
+:::{.callout-tip}
+### ¿Cuál elegir?
+- **Hamel** ofrece una introducción más panorámica, con énfasis en América Latina
+- **Ricento** propone una periodización histórica del campo en tres etapas y ofrece análisis más crítico
+
+Ambas lecturas son válidas. Si tienen buen nivel de inglés, Ricento ofrece una discusión más rica sobre la evolución del campo.
+:::
+
+### Contexto histórico de las lecturas
+
+**Haugen (1959)** escribe en plena Guerra Fría, cuando muchos países nuevos surgen de procesos de descolonización en África y Asia. Hay un interés internacional en cómo estos nuevos Estados pueden "construirse" como naciones unificadas.
+
+**Ricento (2000)** hace un análisis retrospectivo 40 años después y divide el desarrollo del campo en **tres periodos**:
+
+1. **Primer periodo**: Énfasis en planificación para unidad nacional
+2. **Segundo periodo**: Críticas al proyecto de planificación y cuestionamiento de sus intenciones
+3. **Tercer periodo**: Nuevo paradigma que integra derechos humanos, conservación lingüística e ideología
+
+#### Preguntas guía para la lectura
+
+Mientras leen, consideren estas preguntas:
+
+1. ¿Cuáles son las preocupaciones centrales en el origen de la disciplina?
+2. ¿Qué relación hay entre planificación lingüística y construcción de Estados-nación?
+3. ¿Qué críticas surgen al modelo inicial de planificación lingüística?
+4. ¿Cómo se relaciona lo que leyeron con los conceptos que vimos hoy (Spolsky, políticas explícitas/implícitas)?
+
+---
+
+### Tarea para la próxima semana (5 min)
+
+#### Tarea 1: Lectura crítica (obligatoria)
+
+Leer **una** de las opciones (Hamel o Ricento) y traer al menos **dos preguntas o reflexiones** por escrito sobre la lectura.
+
+#### Tarea 2: Observación de campo (opcional, pero recomendada)
+
+Durante la semana, presten atención a **una situación** donde observen una política del lenguaje en acción (puede ser explícita o implícita). Anoten:
+
+- ¿Dónde ocurrió?
+- ¿Qué pasó exactamente?
+- ¿Qué componentes del marco de Spolsky identifican?
+
+Algunos estudiantes podrán compartir sus observaciones brevemente al inicio de la próxima clase.
+
+---
+
+### Recordatorios finales (5 min)
+
+- **Asistencia**: Registrar la asistencia de hoy
+- **Criterios de evaluación**: Si tienen dudas adicionales sobre la evaluación, pueden acercarse después de clase o enviar un correo
+- **Materiales**: Asegúrense de tener acceso a las lecturas para la próxima semana
+- **Consultas**: Horario de atención y correo electrónico del profesor
+
+:::{.callout-important}
+### Para la próxima sesión necesitarán:
+- Lectura completa (Hamel O Ricento)
+- Dos preguntas/reflexiones por escrito sobre la lectura
+- Cuaderno para tomar notas
+:::
+
+---
+
+## Referencias bibliográficas citadas en esta sesión
+
+Hamel, R. E. (1993). Políticas y planificación del lenguaje: una introducción. *Iztapalapa*, 29, 5-39.
+
+Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. *Journal of Sociolinguistics*, 4, 196-213. https://doi.org/10.1111/1467-9481.00111
+
+Spolsky, B. (2004). *Language policy*. Cambridge University Press.
+
+Spolsky, B. (2009). *Language policy and language assessment*. Cambridge University Press.
+
+---
+
+## Notas adicionales para el profesor
+
+### Ajustes posibles según el desarrollo de la clase
+
+- Si la actividad diagnóstica genera mucha discusión, puede extenderse 10 minutos más tomando tiempo del Bloque 3
+- Si los estudiantes ya conocen bien algunos conceptos de Spolsky, puede reducir el Bloque 3 y ampliar el Bloque 4
+- Las viñetas de la Actividad 4.1 pueden adaptarse o sustituirse por casos más cercanos al contexto específico del grupo
+
+### Materiales necesarios
+
+- Proyector para mostrar las viñetas (o imprimir copias)
+- Pizarrón para esquematizar el marco tripartito de Spolsky
+- Lista de asistencia
+- Copias del programa (opcional, si algunos estudiantes no lo tienen)
+
+### Seguimiento para próximas sesiones
+
+- Anotar qué conceptos generaron más confusión para retomarlos
+- Identificar a estudiantes que podrían necesitar apoyo con las lecturas en inglés
+- Registrar ejemplos interesantes que compartieron los estudiantes para retomarlos más adelante en el curso

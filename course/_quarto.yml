@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: _site
 
+
 website:
   title: "Política del Lenguaje"
   site-url: https://politicadellenguaje.juanpaulo.xyz/course
@@ -14,6 +15,8 @@ website:
         text: Sobre este curso
       - href: references.qmd
         text: Bibliografía
+      - href: guia/index.qmd
+        text: Guía para el profesor
 
 lang: es
 
