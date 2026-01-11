@@ -2,3 +2,6 @@
 title: "Guía para el profesor"
 ---
 
+## Sección de guía para el profesor
+
+- [Presentación del curso](./00_01.html)
