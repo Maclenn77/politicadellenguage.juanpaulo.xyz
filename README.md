@@ -14,6 +14,61 @@ This repository serves as a template for creating webpages for courses using Qua
 - `quarto publish`: Publish the document to a remote server or repository.
 - `quarto create-project`: Create a new Quarto project.
 
+## Testing
+
+The course includes end-to-end tests using [Playwright](https://playwright.dev/) to ensure critical functionality works correctly.
+
+### Setup
+
+1. Install dependencies:
+```bash
+cd course
+npm install
+```
+
+2. Install Playwright browsers (first time only):
+```bash
+npx playwright install
+```
+
+### Running Tests
+
+```bash
+# Run all tests
+npm test
+
+# Run tests with UI
+npm run test:ui
+
+# Run tests in headed mode (see browser)
+npm run test:headed
+
+# Debug tests
+npm run test:debug
+```
+
+### Test Coverage
+
+The tests verify:
+
+1. **Reference links with hash open in new window** - Links to specific references (e.g., `references.html#Spolsky2009`) open with `target="_blank"`
+
+2. **Navbar links don't open in new window** - The "Bibliografía" link in the navbar should not have `target="_blank"`
+
+3. **Reference highlighting** - When visiting a URL with hash, the referenced element should:
+   - Be visible in viewport
+   - Have a highlighted background
+   - Have a gold left border
+   - Scroll smoothly to the element
+
+4. **Visual indicator** - Reference links show an external link icon (↗)
+
+### View Test Results
+
+After running tests:
+```bash
+npx playwright show-report
+```
 
 Feel free to customize the template to suit your course needs!
 
