@@ -33,19 +33,38 @@ npx playwright install
 
 ### Running Tests
 
+**Fast (recommended for local development):**
 ```bash
-# Run all tests
+# Run tests in Chromium only (default, fastest)
 npm test
 
-# Run tests with UI
+# Run tests with UI (even faster for debugging)
 npm run test:ui
+```
 
+**Other options:**
+```bash
 # Run tests in headed mode (see browser)
 npm run test:headed
 
-# Debug tests
+# Debug tests step-by-step
 npm run test:debug
+
+# Explicitly run only in Chromium
+npm run test:chromium
+
+# Run in all browsers (slow, matches CI)
+npm run test:all-browsers
 ```
+
+**Why are tests slow?**
+
+By default, tests run only in **Chromium** on your local machine for speed. In CI, they run in **3 browsers** (Chromium, Firefox, WebKit) for comprehensive coverage, which takes ~3x longer.
+
+Other factors that affect speed:
+- **First run**: Quarto needs to compile the entire site (can take 30-60s)
+- **Subsequent runs**: Much faster (~10-20s) as Quarto reuses the running server
+- **All browsers**: Using `npm run test:all-browsers` triples execution time
 
 ### Test Coverage
 
