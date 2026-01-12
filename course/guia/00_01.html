@@ -1797,6 +1797,26 @@ Ricento, T. (2000). Historical and theoretical perspectives in language policy a
 <span id="cb1-486"><a href="#cb1-486" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Registrar ejemplos interesantes que compartieron los estudiantes para retomarlos más adelante en el curso</span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const referenceLinks = document.querySelectorAll('a[href*="references.html#"]');
+
+    referenceLinks.forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+
+    });
+
+    if (window.location.pathname.includes('references.html') && window.location.hash) {
+        setTimeout(() => {
+            const target = document.querySelector(window.location.hash);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }, 200);
+    }
+});
+</script>
 
 
 
