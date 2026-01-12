@@ -1,0 +1,19 @@
+{
+  "name": "politica-del-lenguaje-tests",
+  "version": "1.0.0",
+  "description": "Tests for Política del Lenguaje course website",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:chromium": "playwright test --project=chromium",
+    "test:all-browsers": "CI=true playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0"
+  }
+}
