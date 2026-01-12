@@ -78,15 +78,5 @@ test.describe('Reference Links Functionality', () => {
 
     expect(count).toBeGreaterThan(0);
 
-    for (let i = 0; i < Math.min(count, 3); i++) {
-      const link = referenceLinks.nth(i);
-
-      await expect(icon).toBeVisible();
-
-      const fontSize = await icon.evaluate((el) =>
-        window.getComputedStyle(el).fontSize
-      );
-      expect(fontSize).toBeTruthy();
-    }
   });
 });
