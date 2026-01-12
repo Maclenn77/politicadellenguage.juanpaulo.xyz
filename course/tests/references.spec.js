@@ -25,10 +25,12 @@ test.describe('Reference Links Functionality', () => {
     const testId = 'Spolsky2009';  // Most used reference in the course
     await page.goto(`/references.html#${testId}`);
 
-    await page.waitForLoadState();
+    await page.waitForLoadState('networkidle');
 
     const targetElement = page.locator(`#${testId}`);
     await expect(targetElement).toBeVisible();
+
+    await expect(targetElement).toBeInViewport();
 
     const backgroundColor = await targetElement.evaluate((el) => {
       return window.getComputedStyle(el).backgroundColor;
@@ -52,7 +54,7 @@ test.describe('Reference Links Functionality', () => {
     const testId = 'Spolsky2009';
     await page.goto(`/references.html#${testId}`);
 
-    await page.waitForLoadState();
+    await page.waitForLoadState('networkidle');
 
     const targetElement = page.locator(`#${testId}`);
 
