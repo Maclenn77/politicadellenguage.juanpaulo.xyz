@@ -70,5 +70,21 @@ After running tests:
 npx playwright show-report
 ```
 
+### Continuous Integration
+
+Tests run automatically on every pull request via GitHub Actions. The workflow:
+
+1. Sets up Node.js and Quarto
+2. Installs dependencies and Playwright browsers
+3. Runs all tests
+4. Uploads test reports as artifacts
+
+**Pull requests must pass all tests before merging.** You can view test results in the "Actions" tab of the repository or in the PR checks.
+
+If tests fail in CI:
+- Review the test output in the GitHub Actions logs
+- Download the test report artifact for detailed analysis
+- Run tests locally to debug: `cd course && npm test`
+
 Feel free to customize the template to suit your course needs!
 
