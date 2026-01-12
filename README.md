@@ -105,5 +105,111 @@ If tests fail in CI:
 - Download the test report artifact for detailed analysis
 - Run tests locally to debug: `cd course && npm test`
 
+## Reference Linking
+
+The course uses a custom reference system with interactive links and highlighting. All citations in the content files should link to the `references.html` page.
+
+### Citation Format
+
+When citing authors in your content files (`course/contenido/*.qmd`), use this format:
+
+```markdown
+Author ([Year](../references.html#AuthorYear))
+```
+
+**Examples:**
+
+```markdown
+Spolsky ([2004](../references.html#Spolsky2004))
+Spolsky ([2004](../references.html#Spolsky2004), [2009](../references.html#Spolsky2009))
+Spolsky ([2004](../references.html#Spolsky2004), p. 15)
+```
+
+**Important formatting rules:**
+- Author name comes first (outside the parentheses)
+- Year is wrapped in square brackets `[Year]`
+- Link path is `../references.html#ReferenceID`
+- Multiple years can be listed: `([2004](...), [2009](...))`
+- Page numbers go after the link: `([2004](...), p. 15)`
+
+### Adding References
+
+1. **Add the reference entry** in `course/references.qmd`:
+
+```markdown
+:::{#AuthorYear}
+Author, A. (Year). Title. Publisher.
+:::
+```
+
+2. **Link to it** in your content files using the format above.
+
+3. **Verify** all links work by running the reference checker (see below).
+
+### Reference Checker Script
+
+The repository includes a script to validate all citations and references:
+
+```bash
+cd course
+npm run check-refs
+```
+
+Or run directly:
+```bash
+cd course
+node check-references.js
+```
+
+**What it checks:**
+- ✓ All linked citations exist in `references.qmd`
+- ⚠️ Potential unlinked citations (citations without reference links)
+- ✗ Missing references (citations link to non-existent references)
+- 📋 Unused references (references that aren't cited anywhere)
+
+**Output example:**
+```
+📚 Found 25 references in references.qmd
+📄 Scanning 3 content files...
+
+⚠️  01_que_es_politica_del_lenguaje.qmd
+   Citations without links (may need verification):
+     Line 50: Bourhis (1984)
+
+═══════════════════════════════════════════════════════
+                        SUMMARY
+═══════════════════════════════════════════════════════
+
+✓ Linked citations: 23
+⚠ Potential unlinked citations: 1
+✗ Missing references: 0
+📋 Unused references: 4
+```
+
+**When to run it:**
+- Before committing changes to content files
+- After adding new citations
+- When reviewing pull requests
+- To identify unused references that can be removed
+
+### Reference Features
+
+The reference system includes several interactive features:
+
+1. **Links open in new tabs** - All reference links automatically open with `target="_blank"` (except the navbar link)
+
+2. **Smooth scrolling** - When clicking a reference link, the page scrolls smoothly to the reference
+
+3. **Visual highlighting** - The referenced item is highlighted with:
+   - Yellow background that fades after 3 seconds
+   - Gold left border
+   - Subtle shadow effect
+
+4. **External link icons** - Reference links show a visual indicator (↗)
+
+These features are implemented in:
+- `course/references-links.html` - JavaScript for link behavior
+- `course/styles.css` - CSS for highlighting animation
+
 Feel free to customize the template to suit your course needs!
 
