@@ -6,14 +6,6 @@ document.addEventListener('DOMContentLoaded', function() {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
 
-        if (!link.querySelector('.external-link-icon')) {
-            const icon = document.createElement('span');
-            icon.className = 'external-link-icon';
-            icon.innerHTML = ' ↗';
-            icon.style.fontSize = '0.8em';
-            icon.style.opacity = '0.6';
-            link.appendChild(icon);
-        }
     });
 
     if (window.location.pathname.includes('references.html') && window.location.hash) {
