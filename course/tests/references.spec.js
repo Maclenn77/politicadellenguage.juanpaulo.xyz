@@ -22,7 +22,7 @@ test.describe('Reference Links Functionality', () => {
   });
 
   test('should highlight and scroll to reference when visiting with hash', async ({ page }) => {
-    const testId = 'Spolsky2009'; // Most used reference in the course
+    const testId = 'Spolsky2009';  // Most used reference in the course
     await page.goto(`/references.html#${testId}`);
 
     await page.waitForLoadState();
