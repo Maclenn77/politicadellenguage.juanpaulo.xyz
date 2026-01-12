@@ -23,7 +23,7 @@ format:
 De preferencia lean los tres textos de Spolsky, pero con uno de ellos es suficiente. En caso de no encontrar ninguno de los textos, contacten con el profesor.
 :::
 
-## ¿Qué son las políticas del lenguaje?
+## Definición de políticas del lenguaje
 
 Para este curso, adoptaremos la definición de Spolsky de políticas del lenguaje, quien afirma que
 
