@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Opcional: agrega rel="noopener noreferrer" por seguridad
         link.setAttribute('rel', 'noopener noreferrer');
 
+    });
+
     // Si estamos en la página de referencias y hay un hash, hacer scroll suave al elemento
     if (window.location.pathname.includes('references.html') && window.location.hash) {
         setTimeout(() => {
