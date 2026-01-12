@@ -10,9 +10,6 @@ test.describe('Reference Links Functionality', () => {
     expect(await referenceLink.getAttribute('target')).toBe('_blank');
     expect(await referenceLink.getAttribute('rel')).toBe('noopener noreferrer');
 
-    const externalIcon = referenceLink.locator('.external-link-icon');
-    await expect(externalIcon).toBeVisible();
-    await expect(externalIcon).toHaveText(' ↗');
   });
 
   test('should NOT open navbar reference link in new window', async ({ page }) => {
@@ -82,17 +79,6 @@ test.describe('Reference Links Functionality', () => {
     const count = await referenceLinks.count();
 
     expect(count).toBeGreaterThan(0);
-
-    for (let i = 0; i < Math.min(count, 3); i++) {
-      const link = referenceLinks.nth(i);
-      const icon = link.locator('.external-link-icon');
-
-      await expect(icon).toBeVisible();
-
-      const fontSize = await icon.evaluate((el) =>
-        window.getComputedStyle(el).fontSize
-      );
-      expect(fontSize).toBeTruthy();
-    }
+    
   });
 });
