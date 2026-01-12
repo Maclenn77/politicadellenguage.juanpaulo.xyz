@@ -25,7 +25,7 @@ test.describe('Reference Links Functionality', () => {
     const testId = 'Spolsky2009'; // Most used reference in the course
     await page.goto(`/references.html#${testId}`);
 
-    await page.waitForTimeout(200);
+    await page.waitForLoadState();
 
     const targetElement = page.locator(`#${testId}`);
     await expect(targetElement).toBeVisible();
