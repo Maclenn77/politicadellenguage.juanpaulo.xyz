@@ -1,6 +1,6 @@
 // Script para manejar enlaces a referencias
 document.addEventListener('DOMContentLoaded', function() {
-    // Encuentra todos los enlaces que apuntan a references.html
+    // Encuentra todos los enlaces que apuntan a references.html con hash (referencias específicas)
     const referenceLinks = document.querySelectorAll('a[href*="references.html#"]');
 
     referenceLinks.forEach(link => {
