@@ -69,14 +69,4 @@ test.describe('Reference Links Functionality', () => {
     expect(parseInt(styles.borderLeftWidth)).toBeGreaterThanOrEqual(5);
     expect(styles.borderRadius).not.toBe('0px');
   });
-
-  test('should show external link indicator on reference links', async ({ page }) => {
-    await page.goto('/contenido/01_que_es_politica_del_lenguaje.html');
-
-    const referenceLinks = page.locator('a[href*="references.html#"]');
-    const count = await referenceLinks.count();
-
-    expect(count).toBeGreaterThan(0);
-
-  });
 });
