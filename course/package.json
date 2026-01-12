@@ -8,7 +8,9 @@
     "test:headed": "playwright test --headed",
     "test:debug": "playwright test --debug",
     "test:chromium": "playwright test --project=chromium",
-    "test:all-browsers": "CI=true playwright test"
+    "test:all-browsers": "CI=true playwright test",
+    "check-refs": "node check-references.js",
+    "check-references": "node check-references.js"
   },
   "keywords": [],
   "author": "",
