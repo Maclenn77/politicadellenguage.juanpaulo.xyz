@@ -29,7 +29,8 @@ format:
       - cosmo
       - brand
     css: styles.css
-    include-after-body: references-links.html
+    include-after-body:
+      - file: references-links.html
     toc: true
     toc-title: "En esta unidad"
     code-fold: false
