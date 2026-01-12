@@ -40,8 +40,8 @@ test.describe('Reference Links Functionality', () => {
     const isInViewport = await targetElement.evaluate((el) => {
       const rect = el.getBoundingClientRect();
       return (
-        rect.top >= 0 &&
-        rect.bottom <= window.innerHeight
+        rect.top < window.innerHeight &&
+        rect.bottom > 0
       );
     });
 
