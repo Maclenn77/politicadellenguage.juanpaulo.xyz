@@ -35,16 +35,11 @@ Kymlicka, W. (2001) *Politics in the Vernacular Nationalism, Multiculturalism, a
 Kymlicka, W. y Patten, A. (2004): *Language Rights and Political Theory*, Oxford.
 :::
 :::{#PerezTejada2024}
-Pérez Tejada Ladrón de Guevara, J. P. (2024). La alfabetización
-en lengua materna en México (1939-1959): Las Políticas
-del lenguaje durante los primeros años del indigenismo
-mexicano [Tesis de licenciatura, Escuela Nacional de
-Antropología e Historia].
+Pérez Tejada Ladrón de Guevara, J. P. (2024). La alfabetización en lengua materna en México (1939-1959): Las Políticas del lenguaje durante los primeros años del indigenismo mexicano [Tesis de licenciatura, Escuela Nacional de Antropología e Historia].
 :::
 :::{#Ricento2000}
 Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. Journal of Sociolinguistics, 4, 196-213.
 :::
-
 :::{#Sabatier1986}
 Sabatier, P. A. (1986). Top-Down and Bottom-Up Approaches to Implementation Research: a Critical Analysis and Suggested Synthesis. Journal of Public Policy, 6(1), 21–48. doi:10.1017/S0143814X00003846
 :::
@@ -62,6 +57,13 @@ Spolsky, B. (2009). Language policy and language assessment. New York, NY: Cambr
 :::
 ::: {#Spolsky2012}
 Spolsky, B. (Ed.). (2012). The Cambridge Handbook of Language Policy (Cambridge Handbooks in Language and Linguistics). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979026
+:::
+::: {#Nekvapil2006}
+Nekvapil, J. (2006). From language planning to language management. Sociolinguistica: International Yearbook of European Sociolinguistics, 20, pp. 92-104.
+:::
+::: {#Neustupny2006}
+Neustupny,J.V.(2006): Sociolinguistic aspects of social modernization. In U.Ammon,N. Dittmar,K.J.
+Mattheier and P. Trudgill (eds), Sociolinguistics. An International Handbook of the Science of Language and Society. Berlin/New York:Walter de Gruyter,2209-2223
 :::
 :::{#ThomasonKaufman1988}
 Thomason, S. G., & Kaufman, T. (1988). Language contact, creolization, and genetic linguistics. University of California Press.

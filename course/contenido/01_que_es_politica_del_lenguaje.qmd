@@ -11,6 +11,18 @@ format:
     number-sections: true
 ---
 
+:::{.callout-important}
+## Lecturas recomendadas para la sesión
+- Shohamy, E. (2006). *Language Policy: Hidden Agendas and New Approaches*. Routledge. (Introducción y Parte 1)
+- Spolsky, B. (2004). *Language Policy*. Cambridge University Press. (Prefacio y Capítulo 1)
+- Spolsky, B. (2009) «Toward a theory of language management». En *Language Management*, pp. 1-9. Cambridge University Press.
+- Spolsky, B. (2012) «What is Language Policy?». En B. Spolsky (Ed.), *The Cambridge Handbook of Language Policy* (pp. 3-15). Cambridge University Press.
+
+- **Alternativa en español**: Pérez Tejada, J. P. (2024). *La alfabetización en lengua materna en México (1939-1959): Las Políticas del lenguaje durante los primeros años del indigenismo mexicano* [Tesis de licenciatura, Escuela Nacional de Antropología e Historia]. pp. 38-43
+
+De preferencia lean los tres textos de Spolsky, pero con uno de ellos es suficiente. En caso de no encontrar ninguno de los textos, contacten con el profesor.
+:::
+
 ## ¿Qué son las políticas del lenguaje?
 
 Para este curso, adoptaremos la definición de Spolsky de políticas del lenguaje, quien afirma que

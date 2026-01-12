@@ -25,7 +25,7 @@ lang: es
 
 format:
   html:
-    theme:
+    theme:  
       - cosmo
       - brand
     css: styles.css

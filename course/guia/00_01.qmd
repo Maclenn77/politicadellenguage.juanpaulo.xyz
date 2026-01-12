@@ -1,5 +1,5 @@
 ---
-title: "Políticas del Lenguaje"
+title: "Política del Lenguaje"
 subtitle: "Semana 1: Introducción al curso y conceptos básicos"
 author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
 date: "2026-01-11"
@@ -31,6 +31,8 @@ format:
 | 5 | 30 min | Cierre y asignación de lecturas |
 
 ---
+
+
 
 ## Bloque 1: Presentaciones y programa del curso (30-40 min)
 

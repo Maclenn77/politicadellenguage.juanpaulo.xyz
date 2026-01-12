@@ -1,6 +1,5 @@
 ---
-title: "Clase 1: ¿Qué son las políticas del lenguaje?"
-subtitle: "Presentación del curso"
+title: "Presentación"
 author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
 date: "2026-01-11"
 date-modified: last-modified
