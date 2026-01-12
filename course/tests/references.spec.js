@@ -1,13 +1,14 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Reference Links Functionality', () => {
-  test('should open reference links with hash in new window', async ({ page, context }) => {
+  test('should open reference links with hash in new window', async ({ page }) => {
     await page.goto('/contenido/01_que_es_politica_del_lenguaje.html');
 
     const referenceLink = page.locator('a[href*="references.html#"]').first();
     await expect(referenceLink).toBeVisible();
 
     expect(await referenceLink.getAttribute('target')).toBe('_blank');
+    expect(await referenceLink.getAttribute('rel')).toBe('noopener noreferrer');
   });
 
   test('should NOT open navbar reference link in new window', async ({ page }) => {
@@ -22,13 +23,21 @@ test.describe('Reference Links Functionality', () => {
   });
 
   test('should highlight and scroll to reference when visiting with hash', async ({ page }) => {
-    const testId = 'Spolsky2009';
-    await page.goto(`/references.html#${testId}`);
+    await page.goto('/contenido/01_que_es_politica_del_lenguaje.html');
 
-    await page.waitForTimeout(200);
+    const firstReferenceLink = page.locator('a[href*="references.html#"]').first();
+    const href = await firstReferenceLink.getAttribute('href');
+    const hashMatch = href?.match(/#(.+)$/);
+
+    test.skip(!hashMatch, 'No reference links found with hash');
+    const testId = hashMatch![1];
+
+    await page.goto(`/references.html#${testId}`);
 
     const targetElement = page.locator(`#${testId}`);
     await expect(targetElement).toBeVisible();
+
+    await expect(targetElement).toHaveCSS('background-color', /.+/);
 
     const backgroundColor = await targetElement.evaluate((el) => {
       return window.getComputedStyle(el).backgroundColor;
@@ -49,12 +58,19 @@ test.describe('Reference Links Functionality', () => {
   });
 
   test('should apply CSS highlight styles to targeted reference', async ({ page }) => {
-    const testId = 'Spolsky2009';
+    await page.goto('/contenido/01_que_es_politica_del_lenguaje.html');
+
+    const firstReferenceLink = page.locator('a[href*="references.html#"]').first();
+    const href = await firstReferenceLink.getAttribute('href');
+    const hashMatch = href?.match(/#(.+)$/);
+
+    test.skip(!hashMatch, 'No reference links found with hash');
+    const testId = hashMatch![1];
+
     await page.goto(`/references.html#${testId}`);
 
-    await page.waitForTimeout(200);
-
     const targetElement = page.locator(`#${testId}`);
+    await expect(targetElement).toBeVisible();
 
     const styles = await targetElement.evaluate((el) => {
       const computed = window.getComputedStyle(el);
@@ -78,5 +94,11 @@ test.describe('Reference Links Functionality', () => {
 
     expect(count).toBeGreaterThan(0);
 
+    const firstLink = referenceLinks.first();
+    await expect(firstLink).toBeVisible();
+
+    const icon = firstLink.locator('.external-link-icon');
+    await expect(icon).toBeVisible();
+    await expect(icon).toHaveText(' ↗');
   });
 });
