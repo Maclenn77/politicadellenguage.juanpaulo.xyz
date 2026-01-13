@@ -1,18 +1,112 @@
-# Courses Template
+# Política del Lenguaje
 
-This repository serves as a template for creating webpages for courses using Quarteto. 
+Course website for "Política del Lenguaje" (Language Policy) taught by J. P. Pérez-Tejada at ENAH.
+
+🌐 **Live site**: https://politicadellenguaje.juanpaulo.xyz
+
+## Table of Contents
+
+- [Structure](#structure)
+- [Running Locally](#running-locally)
+- [Basic Quarto Commands](#basic-quarto-commands)
+- [Testing](#testing)
+- [Reference Linking](#reference-linking)
+- [Deployment](#deployment)
 
 ## Structure
 
-- **Root**: The landing page for the course.
-- **Course**: Each course is structured as a Quarteto project.
+- **Root** (`/`): Static HTML/CSS landing page with course overview, objectives, and professor information
+- **Course** (`/course/`): Quarto-based course content with lessons, presentations, and references
+
+## Running Locally
+
+### Prerequisites
+
+- [Quarto CLI](https://quarto.org/docs/get-started/) installed
+- Python 3.x (if using Jupyter notebooks)
+- Modern web browser
+
+### Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Maclenn77/politicadellenguage.juanpaulo.xyz.git
+   cd politicadellenguage.juanpaulo.xyz
+   ```
+
+2. **View the landing page**
+
+   Simply open `index.html` in your browser:
+   ```bash
+   # macOS
+   open index.html
+
+   # Linux
+   xdg-open index.html
+
+   # Windows
+   start index.html
+   ```
+
+   Or use a local server (recommended):
+   ```bash
+   # Using Python 3
+   python3 -m http.server 8000
+
+   # Then visit http://localhost:8000
+   ```
+
+3. **Run the Quarto course site**
+
+   Navigate to the course folder and preview:
+   ```bash
+   cd course
+   quarto preview
+   ```
+
+   This will:
+   - Start a local server (usually at http://localhost:4200)
+   - Automatically open your browser
+   - Watch for changes and auto-reload
+
+   To just render without preview:
+   ```bash
+   quarto render
+   ```
+
+### Full Local Setup
+
+To run both the landing page and course site together:
+
+1. **Terminal 1**: Start a server for the landing page
+   ```bash
+   # From repository root
+   python3 -m http.server 8000
+   ```
+
+2. **Terminal 2**: Start Quarto preview for course content
+   ```bash
+   cd course
+   quarto preview
+   ```
+
+3. **Access the site**:
+   - Landing page: http://localhost:8000
+   - Course content: http://localhost:8000/course (after running `quarto render` in the course folder)
+   - Direct Quarto preview: http://localhost:4200
+
+**Note**: When using `quarto preview`, you can access the course directly at the Quarto server URL, or render the course and access everything through the Python server.
 
 ## Basic Quarto Commands
 
-- `quarto render`: Render the document to the specified output format (HTML, PDF, etc.).
-- `quarto preview`: Preview the document in a web browser.
-- `quarto publish`: Publish the document to a remote server or repository.
-- `quarto create-project`: Create a new Quarto project.
+| Command | Description |
+|---------|-------------|
+| `quarto preview` | Preview with live reload (recommended for development) |
+| `quarto render` | Build static HTML files |
+| `quarto publish` | Publish to GitHub Pages or other platforms |
+| `quarto --help` | View all available commands |
+
+For more information, see the [Quarto documentation](https://quarto.org/docs/guide/).
 
 ## Testing
 
@@ -211,5 +305,49 @@ These features are implemented in:
 - `course/references-links.html` - JavaScript for link behavior
 - `course/styles.css` - CSS for highlighting animation
 
-Feel free to customize the template to suit your course needs!
+## Deployment
+
+The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
+### Manual Deployment
+
+To deploy manually:
+
+1. **Render the Quarto site**:
+   ```bash
+   cd course
+   quarto render
+   ```
+
+2. **Commit all changes**:
+   ```bash
+   git add .
+   git commit -m "Update course content"
+   ```
+
+3. **Push to GitHub**:
+   ```bash
+   git push origin main
+   ```
+
+### GitHub Pages Setup
+
+The site uses GitHub Pages with a custom domain. Configuration:
+
+- **Source**: Deploy from `main` branch, root directory
+- **Custom domain**: `politicadellenguaje.juanpaulo.xyz` (configured in `CNAME` file)
+- **Landing page**: Static `index.html` and `style.css` at root
+- **Course content**: Quarto-rendered site in `/course/` directory
+
+Both the landing page and course content are served from the same domain, with the landing page linking to `/course/` for the full course materials.
+
+---
+
+## License
+
+Materials are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/).
+
+## Contact
+
+For questions about the course, contact J. P. Pérez-Tejada via [juanpaulo.xyz](https://juanpaulo.xyz).
 
