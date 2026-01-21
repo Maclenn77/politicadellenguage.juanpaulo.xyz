@@ -22,6 +22,9 @@ Haugen, E. (1959). «Planning for a standard language in modern Norway» en *Ant
 :::{#Haugen1972}
 Haugen, E. (1972) The Ecology of Language. Standford. CA. Stanford University Press.
 :::
+:::{#Heath1972}
+Heath, S. B. (1972). La política del lenguaje en México, de la colonia a la nación. México, D.F.: Instituto Nacional Indigenista.
+:::
 :::{#Hechter2000}
 Hechter, M. (2000). Containing nationalism. Oxford University Press.
 :::
@@ -34,11 +37,24 @@ Kymlicka, W. (2001) *Politics in the Vernacular Nationalism, Multiculturalism, a
 :::{#KymlickaPatten2004}
 Kymlicka, W. y Patten, A. (2004): *Language Rights and Political Theory*, Oxford.
 :::
+:::{#Labrie1996}
+Labrie, N. (1996). La politique linguistique. En H. Goebl, P. H. Nelde, Z. Starý & W. Wölck (Eds.), *Contact Linguistics: An International Handbook of Contemporary Research* (Vol. 1, pp. 826-834). Berlin: Walter de Gruyter.
+:::
+::: {#Nekvapil2006}
+Nekvapil, J. (2006). From language planning to language management. Sociolinguistica: International Yearbook of European Sociolinguistics, 20, pp. 92-104.
+:::
+::: {#Neustupny2006}
+Neustupny,J.V.(2006): Sociolinguistic aspects of social modernization. In U.Ammon,N. Dittmar,K.J.
+Mattheier and P. Trudgill (eds), Sociolinguistics. An International Handbook of the Science of Language and Society. Berlin/New York:Walter de Gruyter,2209-2223
+:::
 :::{#PerezTejada2024}
 Pérez Tejada Ladrón de Guevara, J. P. (2024). La alfabetización en lengua materna en México (1939-1959): Las Políticas del lenguaje durante los primeros años del indigenismo mexicano [Tesis de licenciatura, Escuela Nacional de Antropología e Historia].
 :::
 :::{#Ricento2000}
 Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. Journal of Sociolinguistics, 4, 196-213.
+:::
+:::{#Ricento2006}
+Ricento, T. (2006). Language policy: Theory and practice—An introduction. En T. Ricento (Ed.), *An Introduction to Language Policy: Theory and Method* (pp. 10-23). Malden, MA: Blackwell.
 :::
 :::{#Sabatier1986}
 Sabatier, P. A. (1986). Top-Down and Bottom-Up Approaches to Implementation Research: a Critical Analysis and Suggested Synthesis. Journal of Public Policy, 6(1), 21–48. doi:10.1017/S0143814X00003846
@@ -58,12 +74,11 @@ Spolsky, B. (2009). Language policy and language assessment. New York, NY: Cambr
 ::: {#Spolsky2012}
 Spolsky, B. (Ed.). (2012). The Cambridge Handbook of Language Policy (Cambridge Handbooks in Language and Linguistics). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979026
 :::
-::: {#Nekvapil2006}
-Nekvapil, J. (2006). From language planning to language management. Sociolinguistica: International Yearbook of European Sociolinguistics, 20, pp. 92-104.
+:::{#Tollefson1991}
+Tollefson, J. W. (1991). *Planning Language, Planning Inequality: Language Policy in the Community*. Londres/Nueva York: Longman.
 :::
-::: {#Neustupny2006}
-Neustupny,J.V.(2006): Sociolinguistic aspects of social modernization. In U.Ammon,N. Dittmar,K.J.
-Mattheier and P. Trudgill (eds), Sociolinguistics. An International Handbook of the Science of Language and Society. Berlin/New York:Walter de Gruyter,2209-2223
+:::{#Tollefson2006}
+Tollefson, J. W. (2006). Critical theory in language policy. En T. Ricento (Ed.), *An Introduction to Language Policy: Theory and Method* (pp. 42-59). Oxford: Blackwell.
 :::
 :::{#ThomasonKaufman1988}
 Thomason, S. G., & Kaufman, T. (1988). Language contact, creolization, and genetic linguistics. University of California Press.

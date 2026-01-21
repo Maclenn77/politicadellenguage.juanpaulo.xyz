@@ -13,6 +13,7 @@ format:
 
 :::{.callout-important}
 ## Lecturas recomendadas para la sesión
+- Labrie, N. (1996). La politique linguistique. En H. Goebl, P. H. Nelde, Z. Starý & W. Wölck (Eds.), *Contact Linguistics: An International Handbook of Contemporary Research* (Vol. 1, pp. 826-834). Berlin: Walter de Gruyter.
 - Shohamy, E. (2006). *Language Policy: Hidden Agendas and New Approaches*. Routledge. (Introducción y Parte 1)
 - Spolsky, B. (2004). *Language Policy*. Cambridge University Press. (Prefacio y Capítulo 1)
 - Spolsky, B. (2009) «Toward a theory of language management». En *Language Management*, pp. 1-9. Cambridge University Press.
@@ -51,6 +52,18 @@ Sin embargo, es fundamental reconocer que la diversidad lingüística no es prob
 
 El estudio de las políticas del lenguaje, por tanto, no solo examina las decisiones tomadas sobre las lenguas, sino también quién define qué situaciones lingüísticas son problemáticas, por qué lo hace, y qué soluciones propone. Como veremos en este curso, las respuestas a estas preguntas han variado enormemente según el contexto histórico, geográfico y social, produciendo políticas que van desde la supresión activa de lenguas minoritarias hasta la promoción del multilingüismo como valor social.
 
+## 'Una' política vs 'LA' política
+
+Una distinción conceptual importante que debemos establecer desde el inicio se refiere a cuándo hablamos de "una política" del lenguaje y cuándo hablamos de "LA política" del lenguaje. En español, esta distinción queda menos clara que en inglés, donde se distingue entre *language policy/policies* y *language politics* o *politics of language*. En francés, Labrie ([1996](../references.html#Labrie1996), p. 828) identifica una distinción análoga entre *une politique linguistique* (una política lingüística específica) y *la politique linguistique* (el fenómeno político del lenguaje), además de un tercer nivel analítico: *l'idéologie linguistique* (la ideología lingüística), que generalmente permanece implícita.
+
+**La política del lenguaje** se refiere al conjunto de fenómenos políticos —relaciones de poder, conflictos, hegemonías— que estructuran el uso y estatus de las lenguas en una sociedad, así como a las ideologías sobre el lenguaje y la diversidad lingüística que motivan los esfuerzos por dirigir el cambio lingüístico. Como argumenta Tollefson ([1991](../references.html#Tollefson1991), p. 16), la política del lenguaje constituye "la institucionalización del lenguaje como base para distinciones entre grupos sociales", determinando quién tiene acceso al poder político y los recursos económicos. Al hablar de la política del lenguaje de la Nueva España durante las reformas borbónicas, por ejemplo, nos referimos a un proyecto político amplio que buscaba la expansión del castellano como lengua administrativa en las colonias, reflejando tanto las relaciones de poder entre los hablantes de la lengua de mayor prestigio (el castellano) y las lenguas indígenas, como una ideología específica frente a la diversidad lingüística.
+
+**Una política del lenguaje** se refiere a una medida, acción o decisión específica mediante la cual se implementa o materializa ese proyecto político más amplio. Estas políticas pueden ser explícitas —formalizadas en leyes, decretos o reglamentos— o implícitas —operando a través de prácticas institucionalizadas sin declaración formal (Schiffman, [1996](../references.html#Schiffman1996); Shohamy, [2006](../references.html#Shohamy2006)). En el caso de las reformas borbónicas, una política específica fue la restricción de cargos administrativos a la población que hablara español. Otra política fue la Real Cédula de 1770 que ordenaba "que de una vez se llegue a conseguir el que se extingan los diferentes idiomas de que se usa en los mismos dominios, y sólo se hable el castellano" (citado en Heath, [1972](../references.html#Heath1972), p. 51). Estas políticas concretas materializaban el proyecto político castellanizador mediante mecanismos específicos de implementación.
+
+Por último, **Políticas del Lenguaje** (o *Language Policy and Planning*, en inglés) también se refiere al campo de estudio interdisciplinario que busca entender cómo se formulan, planifican, implementan y fundamentan las diferentes políticas del lenguaje, así como las relaciones de poder e ideologías lingüísticas que las sustentan (Spolsky, [2004](../references.html#Spolsky2004); Ricento, [2006](../references.html#Ricento2006)). Este campo examina tanto las políticas específicas (el nivel de *policies*) como los fenómenos políticos más amplios (el nivel de *politics*) que determinan las trayectorias lingüísticas de las sociedades.
+
+Esta distinción tripartita —la política como fenómeno de poder, una política como medida específica, y las Políticas del Lenguaje como campo de estudio— es fundamental para el análisis que desarrollaremos en esta investigación sobre las políticas de alfabetización en lengua materna durante el indigenismo mexicano.
+
 ## Políticas explícitas vs implícitas
 
 Las políticas del lenguaje no siempre se manifiestan en leyes o decretos oficiales. Como señala Spolsky ([2004](../references.html#Spolsky2004), p. 4), algunos países registran su política del lenguaje en la constitución o en una ley, mientras que otros no lo hacen; algunos implementan las políticas que declaran, otros claramente no. Esta observación nos lleva a reconocer que las políticas del lenguaje operan en múltiples niveles y de diversas maneras.
@@ -75,6 +88,5 @@ El marco teórico que utilizaremos integra:
 - Las reflexiones sobre **nacionalismo y lengua** de Will Kymlicka ([2001](../references.html#Kymlicka2001)) y Michael Hechter ([2000](../references.html#Hechter2000))
 - El **análisis del discurso** para entender las ideologías lingüísticas (Van Dijk, [1998](../references.html#VanDijk1998))
 
-Como señalo en mi tesis, "el marco teórico que se utilizará para este trabajo de investigación es deudor de todas estas reflexiones previas sobre las políticas del lenguaje. Spolsky retomará los conceptos de ecología y comunidad de habla establecidos en el primer periodo. Se toman en cuenta las críticas hechas durante el segundo periodo de desarrollo y del tercer periodo se reconoce la importancia de integrar el análisis del discurso y la ideología como método para entender las creencias que están detrás de las políticas del lenguaje propuestas en determinado lugar y época" (Pérez Tejada, 2024, p. 31).
 
 [Anterior tema](./00_presentacion.html) | [Siguiente tema](./02_periodos_de_las_politicas_del_lenguaje.html)
