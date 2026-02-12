@@ -10,3 +10,24 @@ format:
     toc-depth: 3
     number-sections: true
 ---
+
+:::{.callout-important}
+## Lecturas recomendadas para la sesión
+- Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. Journal of Sociolinguistics, 4(2), 196-213. [18 páginas] 
+- Hamel, R. E. (1993). Políticas y planificación del lenguaje: una introducción. Iztapalapa, 29, 5-39. [35 páginas] 
+
+De preferencia lean el texto de Ricento. Es un texto más reciente y aborda de manera clara y explícita los periodos del campo de estudio.
+:::
+
+## Historia de las políticas del lenguaje como campo de estudio
+
+### Introducción
+Las políticas del lenguaje, entendidas como la gestión consciente o inconsciente de las lenguas en una sociedad, han existido a lo largo de la historia humana. Sin embargo, como objeto de estudio sistemático, las políticas del lenguaje tienen una historia relativamente reciente. El primer libro con el _Language Policy_ en el título registrado en la Biblioteca del Congreso es de 1945 (Spolsky, [2004](Spolsky2004)). En la década de 1960, comienzan a distinguirse como rama de la sociolingüística (Hamel, 1993; Ricento, 2000; Spolsky, 2004). Comprender cómo se ha desarrollado este campo nos permite reconocer los supuestos teóricos y las limitaciones de diferentes aproximaciones, así como situar las perspectivas contemporáneas en un contexto histórico más amplio.
+Examinaremos el desarrollo histórico del campo de las políticas del lenguaje desde sus orígenes hasta la actualidad. Seguiremos principalmente la periodización propuesta por Ricento (2000), quien identifica tres momentos clave en la evolución de la disciplina, cada uno caracterizado por distintas preocupaciones teóricas, contextos sociopolíticos y aproximaciones metodológicas. También integraremos las perspectivas de otros autores como Hamel (1993), Tollefson (2006) y Zimmerman (1999), quienes han contribuido a nuestra comprensión de cómo el estudio de las políticas del lenguaje se ha transformado en respuesta a cambios en el panorama geopolítico y epistemológico global.
+
+#### La planificación lingüística como primera teoría (década de 1950-1970)
+
+:::{.callout-warning}
+## EN DESARROLLO
+Este apartado se encuentra en desarrollo. Se recomienda revisar las lecturas recomendadas para esta sesión, pues abordan de manera más clara los periodos del campo de estudio.
+:::
