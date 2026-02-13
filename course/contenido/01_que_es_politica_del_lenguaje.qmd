@@ -85,8 +85,6 @@ El marco teórico que utilizaremos integra:
 - Las reflexiones sobre **nacionalismo y lengua** de Will Kymlicka ([2001](../references.html#Kymlicka2001)) y Michael Hechter ([2000](../references.html#Hechter2000))
 - El **análisis del discurso** para entender las ideologías lingüísticas (Van Dijk, [1998](../references.html#VanDijk1998))
 
-## Ejemplo: Prólogo de Nebrija
-::: 
-<iframe src="https://docs.google.com/presentation/d/1bRVR-ScpuUQKBWWaudOQmkJ0DEszRD25/edit?usp=sharing&ouid=118257648413208167904&rtpof=true&sd=true" width="100%" height="500px" frameborder="0" allowfullscreen></iframe>
-:::
-[Anterior tema](./00_presentacion.html) | [Siguiente tema](./02_periodos_de_las_politicas_del_lenguaje.html)
+
+<hr>
+[Anterior tema](./00_presentacion.html) | [Siguiente tema](./01_ejemplo_nebrija.html)

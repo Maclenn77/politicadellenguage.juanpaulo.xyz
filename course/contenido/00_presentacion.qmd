@@ -38,4 +38,5 @@ Por este cambio de tema, me vi obligado a pensar de diferentes maneras las polí
 
 Es esta la perspectiva la que adoptaré para introducirlos a las políticas del lenguaje, un campo de estudio que aborda cómo los gestores de la lengua influyen, o al menos buscan influir en los códigos que otras personas utilizan para comunicarse en diferentes comunidades de habla.
 
+<hr>
 [Siguiente tema](./01_que_es_politica_del_lenguaje.html)

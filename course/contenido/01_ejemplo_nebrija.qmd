@@ -1,0 +1,25 @@
+---
+title: "Presentación"
+author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
+date: "2026-01-11"
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+---
+
+## Ejemplo: Prólogo de Nebrija
+
+<div class="iframe-container" onclick="this.classList.toggle('active')">
+  <iframe src="https://docs.google.com/presentation/d/1bRVR-ScpuUQKBWWaudOQmkJ0DEszRD25/edit?usp=sharing&ouid=118257648413208167904&rtpof=true&sd=true" width="100%" height="500px" 
+        frameborder="0" 
+        allowfullscreen
+        loading=lazy
+        tabindex="-1">
+  </iframe>
+</div>
+
+<hr>
+[Anterior tema](./01_que_es_politica_del_lenguaje.html)|[Siguiente tema](./02_periodos_de_las_politicas_del_lenguaje.html)
