@@ -1,0 +1,34 @@
+---
+title: "Criterios de evaluación"
+date: 2026-02-14
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-title: "Contenido"
+    toc-depth: 3
+    number-sections: true
+---
+
+:::{.callout-important}
+## Sobre la asistencia
+Por reglamento de la ENAH, el alumno debe asistir al 75% de las sesiones para tener derecho a evaluación.
+
+Para el turno de la tarde, los reportes y la participación en el foro contarán como asistencia, así que debe cubrirse el 75% de las actividades para tener derecho a evaluación.
+:::
+
+## Turno de la mañana
+### Actividades a evaluar
+
+La evaluación del curso se hará a través de tres actividades principales:
+
+- **Participación en clase**: Se valorará la participación activa en las discusiones y actividades en clase. Esto incluye la preparación previa a las sesiones, la contribución a las discusiones y el respeto hacia las opiniones de los demás. (60%)
+- **Presentación del trabajo final**: Se requerirá una presentación oral del trabajo final, que debe ser clara, bien estructurada y basada en la investigación realizada para el trabajo final. La presentación debe durar entre 15 y 20 minutos, seguida de una sesión de preguntas y respuestas. [Revisa rúbrica](rubrica_exposicion.html) (20%)
+- **Trabajo final**: Se requerirá la elaboración de un trabajo final que aborde un tema relacionado con las políticas del lenguaje. El trabajo debe ser original, bien argumentado y basado en la literatura académica vista en clase. [Revisa rúbrica](rubrica_trabajo_final.html) (20%)
+
+
+## Turno de la tarde
+### Actividades a evaluar
+
+- Reporte de lectura: Se requerirá un reporte de lectura para cada una de las lecturas asignadas. El reporte debe incluir un resumen de los puntos principales, una reflexión crítica sobre el texto y cómo se relaciona con los temas discutidos en clase. (30%)
+- Participación en foro de discusión: En lugar de la participación en clase, se espera que los estudiantes participen activamente en un foro de discusión en línea, donde podrán compartir sus ideas, hacer preguntas y responder a las publicaciones de sus compañeros. (30%)

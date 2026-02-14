@@ -1,0 +1,212 @@
+---
+title: "Rúbrica de evaluación: Exposición del trabajo final"
+subtitle: "Política del Lenguaje — Licenciatura en Lingüística"
+author: "J. P. Pérez-Tejada"
+date: 2026-02-14
+date-modified: last-modified
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+---
+
+::: {.callout-important}
+### Nota sobre la evaluación
+La rúbrica está diseñada para valorar el proceso de aprendizaje, no solo el producto final. Un estudiante que presente un trabajo en desarrollo pero demuestre apertura a la retroalimentación y comprensión de los conceptos puede obtener una calificación alta.
+:::
+
+## Propósito de la exposición
+
+La exposición del proyecto representa el **20%** de la calificación total del curso. Su objetivo principal es **recibir retroalimentación** del grupo y del profesor para mejorar el trabajo final escrito. En este sentido, la presentación no necesita ser perfecta ni mostrar un trabajo terminado; se trata de un espacio de aprendizaje colaborativo donde el grupo contribuye al desarrollo de cada proyecto.
+
+
+---
+
+## Rúbrica 1: Definición del tema
+
+::: {.callout-note}
+### ¿Qué se evalúa?
+La capacidad de comunicar de manera clara y sintética cuál es el tema de investigación o proyecto, de modo que el público pueda comprender rápidamente el objeto de estudio.
+:::
+
+| Nivel | Descripción | Puntos |
+|-------|-------------|--------|
+| **Excelente** | Presenta el tema de manera clara, concisa y atractiva desde el inicio de la exposición. El público comprende inmediatamente qué política del lenguaje se analiza o qué problema de gestión lingüística se aborda. Delimita con precisión el dominio, los participantes y el contexto. La presentación del tema genera interés y prepara adecuadamente al público para el desarrollo posterior. | 10 |
+| **Satisfactorio** | El tema se enuncia de manera comprensible, aunque podría ser más preciso o sintético. El público entiende el objeto de estudio, pero algunos elementos de la delimitación (dominio, participantes, contexto) quedan parcialmente implícitos. | 8 |
+| **En desarrollo** | El tema se presenta de manera confusa o demasiado extensa. El público requiere aclaraciones para comprender qué se está estudiando. La delimitación es vaga o cambiante a lo largo de la exposición. | 6 |
+| **Insuficiente** | No queda claro cuál es el tema de la investigación o proyecto. El público no logra identificar qué política del lenguaje se analiza o qué problema se pretende resolver. | 4 o menos |
+
+### Preguntas orientadoras para el expositor
+
+- ¿Puedo explicar mi tema en dos o tres oraciones?
+- ¿Queda claro dónde ocurre la política que estudio (dominio)?
+- ¿Se entiende quiénes son los actores involucrados?
+- ¿El público sabe si estoy analizando una política existente o proponiendo un proyecto de intervención?
+
+---
+
+## Rúbrica 2: Dominio del tema expuesto
+
+::: {.callout-note}
+### ¿Qué se evalúa?
+El conocimiento que el estudiante demuestra sobre su propio tema de investigación: los datos recopilados, el contexto sociohistórico, los actores involucrados y las particularidades del caso estudiado.
+:::
+
+| Nivel | Descripción | Puntos |
+|-------|-------------|--------|
+| **Excelente** | Demuestra conocimiento sólido del tema. Presenta datos concretos, ejemplos específicos y evidencia de trabajo de campo o documental. Responde a las preguntas del público con seguridad y profundidad, aportando información adicional cuando es pertinente. Se nota que ha dedicado tiempo a investigar su caso. | 10 |
+| **Satisfactorio** | Muestra conocimiento adecuado del tema, aunque algunos aspectos podrían desarrollarse más. Presenta datos y ejemplos, pero en ocasiones recurre a generalidades. Responde a la mayoría de las preguntas, aunque algunas respuestas son superficiales. | 8 |
+| **En desarrollo** | El conocimiento del tema es limitado o superficial. Presenta pocos datos concretos y recurre frecuentemente a afirmaciones generales. Tiene dificultades para responder preguntas específicas sobre su caso. Se percibe que el trabajo de investigación está en etapas iniciales. | 6 |
+| **Insuficiente** | No demuestra conocimiento del tema más allá de lo evidente. No presenta datos ni evidencia de investigación. No puede responder preguntas básicas sobre su caso. | 4 o menos |
+
+### Indicadores de dominio del tema
+
+- Presenta datos específicos (nombres, fechas, lugares, cifras cuando corresponde)
+- Conoce el contexto sociohistórico de la política analizada
+- Identifica a los actores clave y sus roles
+- Distingue entre lo que ha observado/documentado y lo que supone o infiere
+- Reconoce lo que aún no sabe o necesita investigar más
+
+---
+
+## Rúbrica 3: Comprensión de los conceptos vistos en clase
+
+::: {.callout-note}
+### ¿Qué se evalúa?
+La capacidad de vincular el caso estudiado con el marco teórico del curso, empleando correctamente los conceptos de Spolsky (prácticas, creencias, gestión), comunidad de habla, dominio, ideologías lingüísticas y otros conceptos pertinentes.
+:::
+
+| Nivel | Descripción | Puntos |
+|-------|-------------|--------|
+| **Excelente** | Integra los conceptos del curso de manera natural y pertinente. Identifica claramente los tres componentes del modelo de Spolsky en su caso. Utiliza conceptos como comunidad de habla, dominio o ideología lingüística de manera precisa y productiva para el análisis. Establece conexiones con casos o lecturas revisadas durante el semestre. Demuestra que los conceptos teóricos le ayudan a comprender mejor su objeto de estudio. | 10 |
+| **Satisfactorio** | Utiliza los conceptos del curso de manera correcta, aunque la integración con el caso podría ser más profunda. Menciona los componentes del modelo de Spolsky y otros conceptos relevantes. En ocasiones los conceptos aparecen de manera un tanto forzada o como etiquetas más que como herramientas de análisis. | 8 |
+| **En desarrollo** | Los conceptos del curso aparecen de manera superficial o con imprecisiones. Menciona términos como "prácticas lingüísticas" o "gestión" pero no los aplica correctamente al caso. Confunde algunos conceptos o los utiliza de manera intercambiable cuando no lo son. | 6 |
+| **Insuficiente** | No incorpora los conceptos del curso o los utiliza de manera incorrecta. La exposición no refleja el marco teórico trabajado durante el semestre. No hay vínculo entre la teoría y el caso presentado. | 4 o menos |
+
+### Conceptos que deberían aparecer (según pertinencia)
+
+Del marco de Spolsky (2004, 2009):
+
+- **Prácticas lingüísticas**: ¿qué hacen efectivamente los hablantes en el dominio estudiado?
+- **Creencias sobre la lengua**: ¿qué piensan los actores sobre las lenguas involucradas?
+- **Gestión de la lengua**: ¿quién intenta modificar las prácticas o creencias y cómo?
+
+Herramientas conceptuales:
+
+- **Comunidad de habla**: ¿qué grupo comparte normas sobre el uso del lenguaje?
+- **Dominio**: ¿en qué espacio social opera la política? (hogar, escuela, trabajo, gobierno, medios...)
+- **Ideología lingüística**: ¿qué sistemas de creencias justifican las prácticas observadas?
+
+---
+
+## Rúbrica 4: Apertura a la retroalimentación
+
+::: {.callout-note}
+### ¿Qué se evalúa?
+La disposición del estudiante para recibir comentarios, preguntas y sugerencias del grupo y del profesor. Esta es una competencia fundamental para el trabajo académico y profesional.
+:::
+
+| Nivel | Descripción | Puntos |
+|-------|-------------|--------|
+| **Excelente** | Escucha atentamente los comentarios y preguntas. Toma notas de las sugerencias recibidas. Responde de manera reflexiva, sin ponerse a la defensiva. Reconoce las limitaciones de su trabajo y agradece las observaciones que le ayudan a mejorarlo. Hace preguntas de seguimiento para asegurarse de comprender la retroalimentación. Demuestra genuino interés en mejorar su proyecto. | 10 |
+| **Satisfactorio** | Recibe los comentarios con actitud positiva y responde a las preguntas. Acepta las sugerencias aunque no siempre profundiza en ellas. Ocasionalmente justifica sus decisiones de manera un poco defensiva, pero en general muestra disposición a considerar otras perspectivas. | 8 |
+| **En desarrollo** | Muestra cierta resistencia a los comentarios o tiende a justificar excesivamente sus decisiones. Responde a las preguntas de manera breve o evasiva. No toma notas ni hace preguntas de seguimiento. La actitud sugiere que la retroalimentación es percibida más como evaluación que como ayuda. | 6 |
+| **Insuficiente** | Rechaza los comentarios o se pone a la defensiva ante las observaciones. No responde a las preguntas o lo hace de manera hostil. Interrumpe a quienes le dan retroalimentación. No muestra interés en mejorar el trabajo. | 4 o menos |
+
+### ¿Por qué es importante este criterio?
+
+La presentación tiene como objetivo principal **mejorar el trabajo final**. La retroalimentación de los compañeros y del profesor es un recurso valioso que permite identificar fortalezas, debilidades y áreas de oportunidad antes de la entrega final. Un estudiante que aprovecha este espacio tiene mayores posibilidades de entregar un mejor trabajo escrito.
+
+::: {.callout-tip}
+### Sugerencias para aprovechar la retroalimentación
+- Lleva papel y lápiz (o tu dispositivo) para tomar notas
+- No interrumpas mientras te dan comentarios
+- Si no entiendes algo, pide que te lo aclaren
+- Agradece los comentarios, incluso los críticos
+- Después de la sesión, revisa tus notas y decide qué incorporar
+:::
+
+---
+
+## Tabla resumen de evaluación
+
+| Criterio | Puntos posibles | Peso |
+|----------|-----------------|------|
+| Definición del tema | 10 | 25% |
+| Dominio del tema expuesto | 10 | 25% |
+| Comprensión de conceptos | 10 | 25% |
+| Apertura a retroalimentación | 10 | 25% |
+| **Total** | **40** | **100%** |
+
+::: {.callout-tip}
+### Conversión a calificación
+- 36-40 puntos = 10
+- 32-35 puntos = 9
+- 28-31 puntos = 8
+- 24-27 puntos = 7
+- 20-23 puntos = 6
+- Menos de 20 = 5 o inferior
+:::
+
+---
+
+## Recomendaciones para la exposición
+
+### Estructura sugerida (15-20 minutos)
+
+1. **Introducción** (2-3 min): Presentación del tema, dominio y pregunta de investigación
+2. **Marco teórico** (3-4 min): Conceptos clave que utilizas y por qué son pertinentes
+3. **Metodología** (2-3 min): Cómo obtuviste (u obtendrás) los datos
+4. **Desarrollo/Avances** (5-7 min): Lo que has encontrado hasta ahora
+5. **Dudas y áreas de mejora** (2-3 min): Qué necesitas resolver antes de la entrega final
+
+### Tiempo para retroalimentación (10-15 minutos)
+
+Después de cada exposición habrá un espacio para preguntas, comentarios y sugerencias del grupo.
+
+### Materiales de apoyo
+
+Puedes utilizar:
+
+- Presentación de diapositivas
+- Documentos, imágenes o materiales de tu investigación
+- Esquemas o mapas conceptuales
+- Grabaciones de audio o video (si son pertinentes y breves)
+
+::: {.callout-warning}
+### Evita
+- Leer directamente tus diapositivas o notas
+- Presentaciones con demasiado texto
+- Exceder el tiempo asignado
+- Presentar solo teoría sin vinculación con tu caso
+:::
+
+---
+
+## Para los compañeros: Cómo dar retroalimentación constructiva
+
+La retroalimentación es más útil cuando:
+
+- **Es específica**: "En la parte donde mencionas las creencias de los maestros, podrías dar un ejemplo concreto" es más útil que "falta desarrollo".
+- **Es constructiva**: Señala tanto lo que funciona bien como lo que puede mejorarse.
+- **Es respetuosa**: Recuerda que todos estamos en proceso de aprendizaje.
+- **Es propositiva**: Sugiere alternativas o recursos que podrían ayudar.
+
+### Preguntas útiles para la retroalimentación
+
+- ¿Quedó claro el dominio donde opera la política?
+- ¿Se identifican los tres componentes del modelo de Spolsky?
+- ¿Qué parte del análisis te gustaría que desarrollara más?
+- ¿Conoces alguna lectura o caso similar que podría servirle?
+- ¿La metodología es viable para el tiempo disponible?
+
+---
+
+## Recursos
+
+Estos son algunos recursos que pueden ayudarte a preparar tu exposición:
+
+- How to Speak. P. H. Winston (2018). [Disponible con subtítulos en español](https://www.youtube.com/watch?v=Unzc731iCUY)
+- Telling stories with data in 3 steps. S. Berinato (2019). [Disponible con subtítulos automáticos en español](https://www.youtube.com/watch?v=r5_34YnCmMY)
+- How to give & get constructive feedback. A. Grant & A. Huberman (2025) [Solo disponible en inglés](https://youtu.be/sPWRjjj2iok?si=J9wxKYUfd9GDX2td)
