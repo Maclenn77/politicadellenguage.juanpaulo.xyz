@@ -14,12 +14,14 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: about.qmd
-        text: Sobre este curso
-      - href: references.qmd
-        text: Bibliografía
+      - href: evaluacion/index.qmd
+        text: Evaluación
       - href: guia/index.qmd
         text: Guía para el profesor
+      - href: references.qmd
+        text: Bibliografía
+      - href: about.qmd
+        text: Sobre este curso
 
 lang: es
 
