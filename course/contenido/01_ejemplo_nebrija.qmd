@@ -1,5 +1,5 @@
 ---
-title: "Presentación"
+title: "Ejemplo: Prólogo de Nebrija"
 author: "Juan Paulo Pérez Tejada Ladrón de Guevara"
 date: "2026-01-11"
 date-modified: last-modified
@@ -10,7 +10,9 @@ format:
     number-sections: true
 ---
 
-## Ejemplo: Prólogo de Nebrija
+### Resumen
+
+En esta sección se presenta un ejemplo de análisis de un texto histórico relacionado con las políticas del lenguaje: el prólogo de Antonio de Nebrija a su obra "Gramática de la lengua castellana". Este texto es fundamental para entender el contexto histórico y las motivaciones detrás de la creación de una gramática para el español, así como las implicaciones políticas y culturales que esto tuvo en su época.
 
 <div class="iframe-container" onclick="this.classList.toggle('active')">
   <iframe src="https://docs.google.com/presentation/d/1bRVR-ScpuUQKBWWaudOQmkJ0DEszRD25/edit?usp=sharing&ouid=118257648413208167904&rtpof=true&sd=true" width="100%" height="500px" 

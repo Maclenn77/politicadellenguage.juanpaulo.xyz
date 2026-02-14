@@ -1,16 +1,16 @@
 ---
 title: "Política del Lenguaje"
+subtitle: "Programa de la materia. ENAH, 2026-1"
+toc-title: "Contenido"
 ---
 
-## Curso de Política del lenguaje (ENAH, 2026-1)
-
-### Fundamentos de las políticas del lenguaje
+## Fundamentos de las políticas del lenguaje
 - [Presentación](./contenido/00_presentacion.html)
 - Introducción al curso y conceptos básicos. [¿Qué son las políticas del lenguaje?](./contenido/01_que_es_politica_del_lenguaje.html)
 - Política del lenguaje como campo de estudio: orígenes y desarrollo.
 - Planificación lingüística.
 
-### Herramientas conceptuales para el análisis
+## Herramientas conceptuales para el análisis
 - El modelo de Spolsky y gestión de la lengua
 - Comunidad de habla
 - Etnografía de la comunicación
@@ -18,19 +18,19 @@ title: "Política del Lenguaje"
 - Actitudes lingüísticas
 
 
-### Ecología del lenguaje e ideologías lingüísticas
+## Ecología del lenguaje e ideologías lingüísticas
 - Ecología del lenguaje
 - Ideología y lenguaje (primera parte)
 - Ideología y lenguaje (segunda parte)
 
-### Contexto sociohistórico de las políticas del lenguaje
+## Contexto sociohistórico de las políticas del lenguaje
 - Políticas del lenguaje durante el colonialismo
 - Políticas del lenguaje en la construcción del Estado-Nación
 
-
-### Políticas de revitalización lingüística
+## Políticas de revitalización lingüística
 - Políticas de revitalización lingüística: casos de estudio
 - Experiencias de revitalización lingüística en México
 
+:::{style="text-align: center;"}
 [Descarga el programa](https://drive.google.com/file/d/1sypNXyYHjD_zmJY8e8h3viLonlLVj06m/view?usp=sharing){.btn .btn-primary}
-
+:::
