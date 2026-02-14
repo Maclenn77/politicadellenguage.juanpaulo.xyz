@@ -1,0 +1,1379 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.27">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="J. P. Pérez-Tejada">
+
+<title>rubrica_trabajo_final – Política del Lenguaje</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../../../images/favicon.ico" rel="icon">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Política del Lenguaje</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Inicio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../evaluacion/index.html"> 
+<span class="menu-text">Evaluación</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../guia/index.html"> 
+<span class="menu-text">Guía para el profesor</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../references.html"> 
+<span class="menu-text">Bibliografía</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">Sobre este curso</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta unidad</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">Introducción</a></li>
+  <li><a href="#rúbrica-1-definición-del-problema" id="toc-rúbrica-1-definición-del-problema" class="nav-link" data-scroll-target="#rúbrica-1-definición-del-problema">Rúbrica 1: Definición del problema</a>
+  <ul class="collapse">
+  <li><a href="#indicadores-específicos" id="toc-indicadores-específicos" class="nav-link" data-scroll-target="#indicadores-específicos">Indicadores específicos</a></li>
+  </ul></li>
+  <li><a href="#rúbrica-2-marco-teórico" id="toc-rúbrica-2-marco-teórico" class="nav-link" data-scroll-target="#rúbrica-2-marco-teórico">Rúbrica 2: Marco teórico</a>
+  <ul class="collapse">
+  <li><a href="#conceptos-clave-que-deben-aparecer" id="toc-conceptos-clave-que-deben-aparecer" class="nav-link" data-scroll-target="#conceptos-clave-que-deben-aparecer">Conceptos clave que deben aparecer</a></li>
+  </ul></li>
+  <li><a href="#rúbrica-3-metodología" id="toc-rúbrica-3-metodología" class="nav-link" data-scroll-target="#rúbrica-3-metodología">Rúbrica 3: Metodología</a>
+  <ul class="collapse">
+  <li><a href="#para-análisis-de-políticas-existentes" id="toc-para-análisis-de-políticas-existentes" class="nav-link" data-scroll-target="#para-análisis-de-políticas-existentes">Para análisis de políticas existentes</a></li>
+  <li><a href="#para-proyectos-de-intervención" id="toc-para-proyectos-de-intervención" class="nav-link" data-scroll-target="#para-proyectos-de-intervención">Para proyectos de intervención</a></li>
+  </ul></li>
+  <li><a href="#rúbrica-4-desarrollo-del-tema" id="toc-rúbrica-4-desarrollo-del-tema" class="nav-link" data-scroll-target="#rúbrica-4-desarrollo-del-tema">Rúbrica 4: Desarrollo del tema</a>
+  <ul class="collapse">
+  <li><a href="#elementos-esperados-en-el-desarrollo" id="toc-elementos-esperados-en-el-desarrollo" class="nav-link" data-scroll-target="#elementos-esperados-en-el-desarrollo">Elementos esperados en el desarrollo</a></li>
+  </ul></li>
+  <li><a href="#rúbrica-5-conclusiones" id="toc-rúbrica-5-conclusiones" class="nav-link" data-scroll-target="#rúbrica-5-conclusiones">Rúbrica 5: Conclusiones</a></li>
+  <li><a href="#rúbrica-6-bibliografía" id="toc-rúbrica-6-bibliografía" class="nav-link" data-scroll-target="#rúbrica-6-bibliografía">Rúbrica 6: Bibliografía</a>
+  <ul class="collapse">
+  <li><a href="#fuentes-fundamentales-esperadas" id="toc-fuentes-fundamentales-esperadas" class="nav-link" data-scroll-target="#fuentes-fundamentales-esperadas">Fuentes fundamentales esperadas</a></li>
+  </ul></li>
+  <li><a href="#tabla-resumen-de-evaluación" id="toc-tabla-resumen-de-evaluación" class="nav-link" data-scroll-target="#tabla-resumen-de-evaluación">Tabla resumen de evaluación</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<div class="quarto-title-block"><div><h1 class="title">Rúbricas de evaluación del trabajo final</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
+<p class="subtitle lead">Política del Lenguaje — Licenciatura en Lingüística</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-contents">
+             <p>J. P. Pérez-Tejada </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de publicación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">1 de enero de 2026</p>
+    </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Fecha de última modificación</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">14 de febrero de 2026</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>El trabajo final del curso consiste en un <strong>análisis de una política del lenguaje existente</strong> o en la elaboración de un <strong>proyecto de intervención en política lingüística</strong>. El documento debe incluir: introducción, descripción del problema, justificación, marco teórico, desarrollo, conclusiones y bibliografía (Programa de la materia, 2026).</p>
+<p>La evaluación del trabajo final representa el <strong>40%</strong> de la calificación total del curso:</p>
+<ul>
+<li><strong>Trabajo escrito (20%)</strong>: documento entregado con la estructura solicitada</li>
+<li><strong>Exposición del proyecto (20%)</strong>: presentación ante el grupo para recibir retroalimentación</li>
+</ul>
+<p>Las siguientes rúbricas detallan los criterios que se utilizarán para evaluar el trabajo escrito. Cada criterio se evalúa en una escala de cuatro niveles: <strong>Excelente</strong>, <strong>Satisfactorio</strong>, <strong>En desarrollo</strong> e <strong>Insuficiente</strong>.</p>
+<hr>
+</section>
+<section id="rúbrica-1-definición-del-problema" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-1-definición-del-problema">Rúbrica 1: Definición del problema</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>La capacidad del estudiante para identificar y delimitar una política del lenguaje específica, o bien, un problema de política del lenguaje que justifique el desarrollo de un proyecto de intervención.</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Identifica con precisión una política del lenguaje o un problema de gestión lingüística, delimitando claramente el dominio (escuela, comunidad, institución, medios, etc.), los participantes involucrados y el contexto sociohistórico. Justifica por qué esta política o problema es relevante para el campo de estudio. Formula preguntas de investigación pertinentes y alcanzables.</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>Identifica una política del lenguaje o un problema de gestión lingüística con claridad, aunque la delimitación del dominio o los participantes puede ser parcial. La justificación de relevancia es adecuada pero podría ser más desarrollada. Las preguntas de investigación son pertinentes aunque amplias.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>Presenta una idea general sobre la política o problema a abordar, pero la delimitación es vaga o demasiado amplia. No distingue claramente entre política explícita e implícita, o entre prácticas, creencias y gestión. Las preguntas de investigación requieren mayor precisión.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>No logra identificar una política del lenguaje específica o confunde conceptos fundamentales. El problema planteado no corresponde al campo de las políticas del lenguaje o carece de delimitación. No formula preguntas de investigación.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<section id="indicadores-específicos" class="level3">
+<h3 class="anchored" data-anchor-id="indicadores-específicos">Indicadores específicos</h3>
+<p>Para <strong>análisis de política existente</strong>:</p>
+<ul>
+<li>¿Se identifica quién gestiona la política (Estado, comunidad, institución)?</li>
+<li>¿Se especifica el dominio donde opera la política?</li>
+<li>¿Se distingue entre políticas explícitas (leyes, reglamentos) e implícitas (prácticas no declaradas)?</li>
+</ul>
+<p>Para <strong>proyecto de intervención</strong>:</p>
+<ul>
+<li>¿Se identifica un problema concreto de gestión lingüística?</li>
+<li>¿Se justifica la necesidad de intervención?</li>
+<li>¿Se delimita el alcance del proyecto (quiénes, dónde, cuándo)?</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="rúbrica-2-marco-teórico" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-2-marco-teórico">Rúbrica 2: Marco teórico</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>La comprensión y aplicación correcta de los conceptos fundamentales del curso: comunidad de habla, dominio, prácticas lingüísticas, creencias e ideologías, y gestión de la lengua.</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Demuestra comprensión profunda del marco tripartito de Spolsky (prácticas lingüísticas, creencias sobre la lengua, gestión lingüística). Define y aplica correctamente los conceptos de comunidad de habla (Gumperz, 1962; Romaine, 1996) y dominio (Fishman, 1972). Integra de manera coherente conceptos como ideología lingüística (Woolard &amp; Schieffelin, 1994; Van Dijk, 2003) y los vincula con el problema de investigación. Muestra conocimiento del desarrollo histórico del campo (Ricento, 2000).</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>Define correctamente los conceptos principales del marco de Spolsky y los aplica al análisis. Comprende la relación entre comunidad de habla y dominio. Menciona las ideologías lingüísticas aunque su tratamiento puede ser superficial. El marco teórico es coherente pero podría profundizar más en algún concepto.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>Presenta los conceptos básicos pero con imprecisiones en las definiciones o en su aplicación. Confunde parcialmente la relación entre los componentes del marco de Spolsky. El vínculo entre el marco teórico y el problema de investigación es débil.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>Presenta definiciones incorrectas o confusas de los conceptos fundamentales. No logra articular un marco teórico coherente. Los conceptos aparecen desconectados entre sí y del problema de investigación.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<section id="conceptos-clave-que-deben-aparecer" class="level3">
+<h3 class="anchored" data-anchor-id="conceptos-clave-que-deben-aparecer">Conceptos clave que deben aparecer</h3>
+<p>De acuerdo con Spolsky (2004, 2009), una política del lenguaje se compone de tres elementos:</p>
+<ol type="1">
+<li><p><strong>Prácticas lingüísticas</strong> (<em>language practices</em>): lo que los hablantes hacen, el comportamiento observable y sus elecciones (Spolsky, 2004, p.&nbsp;42; Pérez Tejada, 2024, p.&nbsp;42).</p></li>
+<li><p><strong>Creencias sobre la lengua</strong> (<em>language beliefs/ideology</em>): el valor o estatus asignado a una lengua, las actitudes e ideologías lingüísticas (Spolsky, 2004; Woolard &amp; Schieffelin, 1994).</p></li>
+<li><p><strong>Gestión de la lengua</strong> (<em>language management</em>): los esfuerzos realizados para cambiar las prácticas o creencias, dirigidos por un individuo o grupo reconocido como autoridad dentro del dominio (Spolsky, 2009; Neustupný, 2006).</p></li>
+</ol>
+<p>Además, el trabajo debe incorporar:</p>
+<ul>
+<li><p><strong>Comunidad de habla</strong>: grupo que comparte normas y reglas sobre el uso del lenguaje, no necesariamente una misma lengua (Romaine, 1996, p.&nbsp;39; Gumperz, 1962).</p></li>
+<li><p><strong>Dominio</strong>: espacio social (hogar, escuela, trabajo, gobierno) con participantes, locación y tópicos característicos; cada dominio tiene su propia política del lenguaje (Fishman, 1972; Spolsky, 2009, p.&nbsp;3).</p></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="rúbrica-3-metodología" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-3-metodología">Rúbrica 3: Metodología</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>La claridad y pertinencia del diseño metodológico para obtener los datos necesarios (en el caso de análisis) o para implementar la gestión propuesta (en el caso de proyectos de intervención).</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Presenta un diseño metodológico claro, coherente con el problema de investigación y el marco teórico. Describe con precisión las técnicas de recolección de datos (observación etnográfica, entrevistas, análisis documental, etc.) o las fases de implementación del proyecto. Justifica las decisiones metodológicas. Considera las limitaciones del estudio. El modelo de planificación (Bourhis, 1984) se aplica correctamente cuando corresponde.</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>Describe la metodología de manera adecuada, aunque algunos aspectos podrían detallarse más. Las técnicas de recolección son pertinentes pero su justificación es limitada. Menciona algunas limitaciones del estudio.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>La metodología es vaga o presenta inconsistencias con el problema de investigación. No queda claro cómo se obtendrán los datos o cómo se implementará el proyecto. Las limitaciones no se consideran.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>No presenta metodología o la descripción es tan vaga que no permite evaluar la viabilidad del estudio/proyecto. Las técnicas propuestas son inapropiadas para el problema planteado.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<section id="para-análisis-de-políticas-existentes" class="level3">
+<h3 class="anchored" data-anchor-id="para-análisis-de-políticas-existentes">Para análisis de políticas existentes</h3>
+<p>Siguiendo a Spolsky (2004, p.&nbsp;4), la investigación sobre políticas del lenguaje enfrenta retos específicos en la recopilación de datos:</p>
+<ul>
+<li><strong>Fuentes documentales</strong>: leyes, constituciones, programas, materiales educativos</li>
+<li><strong>Observación etnográfica</strong>: prácticas lingüísticas en contextos específicos</li>
+<li><strong>Entrevistas</strong>: creencias y actitudes de los participantes</li>
+<li><strong>Censos y estadísticas</strong>: datos cuantitativos sobre hablantes</li>
+</ul>
+</section>
+<section id="para-proyectos-de-intervención" class="level3">
+<h3 class="anchored" data-anchor-id="para-proyectos-de-intervención">Para proyectos de intervención</h3>
+<p>De acuerdo con el esquema de Bourhis (1984), el proyecto debe considerar cuatro fases:</p>
+<ol type="1">
+<li><strong>Planeación</strong>: diagnóstico sociolingüístico</li>
+<li><strong>Decisiones políticas</strong>: objetivos y estrategias</li>
+<li><strong>Implementación</strong>: acciones concretas</li>
+<li><strong>Evaluación</strong>: indicadores de logro</li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="rúbrica-4-desarrollo-del-tema" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-4-desarrollo-del-tema">Rúbrica 4: Desarrollo del tema</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>La integración efectiva del marco teórico con los datos empíricos o con la propuesta de intervención. La capacidad de análisis crítico y la coherencia argumentativa.</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Articula de manera coherente y profunda el marco teórico con los datos recopilados o con el diseño del proyecto. Identifica los tres componentes del modelo de Spolsky en el caso analizado. Relaciona las prácticas, creencias y gestión dentro del dominio estudiado. El análisis es crítico, evitando tanto la descripción superficial como los juicios infundados. La argumentación es clara y bien estructurada.</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>Integra el marco teórico con los datos de manera adecuada, aunque el análisis podría profundizar más en algunos aspectos. Identifica los componentes principales del modelo de Spolsky. La argumentación es clara pero puede presentar algunas debilidades.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>El desarrollo presenta datos o describe el proyecto, pero la integración con el marco teórico es débil. El análisis es principalmente descriptivo sin alcanzar un nivel crítico. Los conceptos teóricos aparecen de manera forzada o desconectada.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>No logra integrar el marco teórico con el análisis empírico o el diseño del proyecto. La presentación de datos es desorganizada. No hay análisis crítico, solo descripción superficial o afirmaciones sin sustento.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<section id="elementos-esperados-en-el-desarrollo" class="level3">
+<h3 class="anchored" data-anchor-id="elementos-esperados-en-el-desarrollo">Elementos esperados en el desarrollo</h3>
+<ul>
+<li>Descripción de la <strong>ecología del lenguaje</strong> del contexto estudiado (Haugen, 1972; Spolsky, 2009)</li>
+<li>Identificación de las <strong>prácticas lingüísticas</strong> observables</li>
+<li>Análisis de las <strong>creencias e ideologías</strong> presentes</li>
+<li>Descripción de los mecanismos de <strong>gestión</strong> (explícitos e implícitos)</li>
+<li>Relación entre los diferentes niveles de análisis (micro, meso, macro)</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="rúbrica-5-conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-5-conclusiones">Rúbrica 5: Conclusiones</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>La capacidad de sintetizar los hallazgos, reconocer las limitaciones del trabajo y proyectar líneas futuras de investigación o acción.</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Resume de manera precisa los hallazgos principales, vinculándolos con las preguntas de investigación planteadas. Reconoce las limitaciones del estudio de manera honesta y específica. Propone líneas de investigación futura o acciones de seguimiento pertinentes. Reflexiona sobre las implicaciones del estudio para el campo de las políticas del lenguaje o para la comunidad estudiada.</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>Resume los hallazgos principales de manera adecuada. Reconoce algunas limitaciones aunque podría ser más específico. Las propuestas de investigación futura son pertinentes pero generales.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>Las conclusiones son demasiado breves o repiten el contenido del desarrollo sin sintetizarlo. Las limitaciones no se reconocen o se minimizan. No hay propuestas de investigación futura.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>No presenta conclusiones o estas no se relacionan con el contenido del trabajo. Introduce información nueva que debió aparecer en el desarrollo. No hay reflexión sobre el trabajo realizado.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="rúbrica-6-bibliografía" class="level2">
+<h2 class="anchored" data-anchor-id="rúbrica-6-bibliografía">Rúbrica 6: Bibliografía</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>¿Qué se evalúa?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>El uso correcto del formato APA, la pertinencia de las fuentes consultadas y la consistencia entre las citas en el texto y la lista de referencias.</p>
+</div>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 46%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nivel</th>
+<th>Descripción</th>
+<th>Puntos</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Excelente</strong></td>
+<td>Todas las referencias siguen el formato APA 7ª edición de manera consistente. Las fuentes son pertinentes y actualizadas. Incluye obras fundamentales del campo (Spolsky, Fishman, Haugen, etc.) y fuentes específicas sobre el tema abordado. Todas las citas en el texto aparecen en la bibliografía y viceversa. Balance adecuado entre fuentes teóricas y empíricas.</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td><strong>Satisfactorio</strong></td>
+<td>La mayoría de las referencias siguen el formato APA con errores menores. Las fuentes son pertinentes aunque podrían incluir más obras fundamentales o más fuentes específicas. Hay correspondencia entre citas y bibliografía con pocas excepciones.</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td><strong>En desarrollo</strong></td>
+<td>Presenta errores frecuentes en el formato APA. Algunas fuentes no son pertinentes o faltan obras fundamentales del campo. Hay inconsistencias entre las citas en el texto y la bibliografía.</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td><strong>Insuficiente</strong></td>
+<td>No sigue el formato APA o el formato es inconsistente. Las fuentes son insuficientes, no pertinentes o no académicas. Hay múltiples citas sin referencia o referencias sin citar.</td>
+<td>4 o menos</td>
+</tr>
+</tbody>
+</table>
+<section id="fuentes-fundamentales-esperadas" class="level3">
+<h3 class="anchored" data-anchor-id="fuentes-fundamentales-esperadas">Fuentes fundamentales esperadas</h3>
+<p>Según el programa del curso y la bibliografía de referencia:</p>
+<p><strong>Marco teórico general:</strong></p>
+<ul>
+<li>Spolsky, B. (2004). <em>Language Policy</em>. Cambridge University Press.</li>
+<li>Spolsky, B. (2009). <em>Language Management</em>. Cambridge University Press.</li>
+<li>Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. <em>Journal of Sociolinguistics</em>, 4, 196-213.</li>
+<li>Hamel, R. E. (1993). Políticas y planificación del lenguaje: una introducción. <em>Iztapalapa</em>, 29, 5-39.</li>
+</ul>
+<p><strong>Conceptos analíticos:</strong></p>
+<ul>
+<li>Fishman, J. A. (1972). The relationship between micro- and macro-sociolinguistics. En J.B. Pride (comp.), <em>Sociolinguistics</em> (pp.&nbsp;435-453). Holt, Rinehart &amp; Winston.</li>
+<li>Gumperz, J. J. (1962). Types of Linguistic Communities. <em>Anthropological Linguistics</em>, 4(1), 28-40.</li>
+<li>Van Dijk, T. A. (2003). <em>Ideología y discurso: una introducción multidisciplinaria</em>. Ariel.</li>
+<li>Woolard, K. A., &amp; Schieffelin, B. B. (1994). Language ideology. <em>Annual Review of Anthropology</em>, 23, 55-82.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="tabla-resumen-de-evaluación" class="level2">
+<h2 class="anchored" data-anchor-id="tabla-resumen-de-evaluación">Tabla resumen de evaluación</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Criterio</th>
+<th>Puntos posibles</th>
+<th>Peso</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Definición del problema</td>
+<td>15</td>
+<td>15%</td>
+</tr>
+<tr class="even">
+<td>Marco teórico</td>
+<td>20</td>
+<td>20%</td>
+</tr>
+<tr class="odd">
+<td>Metodología</td>
+<td>20</td>
+<td>20%</td>
+</tr>
+<tr class="even">
+<td>Desarrollo del tema</td>
+<td>20</td>
+<td>20%</td>
+</tr>
+<tr class="odd">
+<td>Conclusiones</td>
+<td>20</td>
+<td>20%</td>
+</tr>
+<tr class="even">
+<td>Bibliografía</td>
+<td>5</td>
+<td>5%</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+<td><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+
+
+<!-- -->
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiado");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiado");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+    const viewSource = window.document.getElementById('quarto-view-source') ||
+                       window.document.getElementById('quarto-code-tools-source');
+    if (viewSource) {
+      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+      viewSource.addEventListener("click", function(e) {
+        if (sourceUrl) {
+          // rstudio viewer pane
+          if (/\bcapabilities=\b/.test(window.location)) {
+            window.open(sourceUrl);
+          } else {
+            window.location.href = sourceUrl;
+          }
+        } else {
+          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+          modal.show();
+        }
+        return false;
+      });
+    }
+    function toggleCodeHandler(show) {
+      return function(e) {
+        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+        for (let i=0; i<detailsSrc.length; i++) {
+          const details = detailsSrc[i].parentElement;
+          if (show) {
+            details.open = true;
+          } else {
+            details.removeAttribute("open");
+          }
+        }
+        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+        const fromCls = show ? "hidden" : "unhidden";
+        const toCls = show ? "unhidden" : "hidden";
+        for (let i=0; i<cellCodeDivs.length; i++) {
+          const codeDiv = cellCodeDivs[i];
+          if (codeDiv.classList.contains(fromCls)) {
+            codeDiv.classList.remove(fromCls);
+            codeDiv.classList.add(toCls);
+          } 
+        }
+        return false;
+      }
+    }
+    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+    if (hideAllCode) {
+      hideAllCode.addEventListener("click", toggleCodeHandler(false));
+    }
+    const showAllCode = window.document.getElementById("quarto-show-all-code");
+    if (showAllCode) {
+      showAllCode.addEventListener("click", toggleCodeHandler(true));
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/politicadellenguaje\.juanpaulo\.xyz\/course");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Ejecutar el código</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Rúbricas de evaluación del trabajo final"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Política del Lenguaje — Licenciatura en Lingüística"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span><span class="co"> "J. P. Pérez-Tejada"</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> "2026"</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="an">date-modified:</span><span class="co"> last-modified</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="an">format:</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">  html:</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">    toc: true</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">    toc-depth: 2</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    number-sections: true</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="fu">## Introducción</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>El trabajo final del curso consiste en un **análisis de una política del lenguaje existente** o en la elaboración de un **proyecto de intervención en política lingüística**. El documento debe incluir: introducción, descripción del problema, justificación, marco teórico, desarrollo, conclusiones y bibliografía (Programa de la materia, 2026).</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>La evaluación del trabajo final representa el **40%** de la calificación total del curso:</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Trabajo escrito (20%)**: documento entregado con la estructura solicitada</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Exposición del proyecto (20%)**: presentación ante el grupo para recibir retroalimentación</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>Las siguientes rúbricas detallan los criterios que se utilizarán para evaluar el trabajo escrito. Cada criterio se evalúa en una escala de cuatro niveles: **Excelente**, **Satisfactorio**, **En desarrollo** e **Insuficiente**.</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 1: Definición del problema</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>La capacidad del estudiante para identificar y delimitar una política del lenguaje específica, o bien, un problema de política del lenguaje que justifique el desarrollo de un proyecto de intervención.</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Identifica con precisión una política del lenguaje o un problema de gestión lingüística, delimitando claramente el dominio (escuela, comunidad, institución, medios, etc.), los participantes involucrados y el contexto sociohistórico. Justifica por qué esta política o problema es relevante para el campo de estudio. Formula preguntas de investigación pertinentes y alcanzables. <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> Identifica una política del lenguaje o un problema de gestión lingüística con claridad, aunque la delimitación del dominio o los participantes puede ser parcial. La justificación de relevancia es adecuada pero podría ser más desarrollada. Las preguntas de investigación son pertinentes aunque amplias. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> Presenta una idea general sobre la política o problema a abordar, pero la delimitación es vaga o demasiado amplia. No distingue claramente entre política explícita e implícita, o entre prácticas, creencias y gestión. Las preguntas de investigación requieren mayor precisión. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> No logra identificar una política del lenguaje específica o confunde conceptos fundamentales. El problema planteado no corresponde al campo de las políticas del lenguaje o carece de delimitación. No formula preguntas de investigación. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="fu">### Indicadores específicos</span></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>Para **análisis de política existente**:</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se identifica quién gestiona la política (Estado, comunidad, institución)?</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se especifica el dominio donde opera la política?</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se distingue entre políticas explícitas (leyes, reglamentos) e implícitas (prácticas no declaradas)?</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>Para **proyecto de intervención**:</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se identifica un problema concreto de gestión lingüística?</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se justifica la necesidad de intervención?</span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>¿Se delimita el alcance del proyecto (quiénes, dónde, cuándo)?</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 2: Marco teórico</span></span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>La comprensión y aplicación correcta de los conceptos fundamentales del curso: comunidad de habla, dominio, prácticas lingüísticas, creencias e ideologías, y gestión de la lengua.</span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Demuestra comprensión profunda del marco tripartito de Spolsky (prácticas lingüísticas, creencias sobre la lengua, gestión lingüística). Define y aplica correctamente los conceptos de comunidad de habla (Gumperz, 1962; Romaine, 1996) y dominio (Fishman, 1972). Integra de manera coherente conceptos como ideología lingüística (Woolard &amp; Schieffelin, 1994; Van Dijk, 2003) y los vincula con el problema de investigación. Muestra conocimiento del desarrollo histórico del campo (Ricento, 2000). <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> Define correctamente los conceptos principales del marco de Spolsky y los aplica al análisis. Comprende la relación entre comunidad de habla y dominio. Menciona las ideologías lingüísticas aunque su tratamiento puede ser superficial. El marco teórico es coherente pero podría profundizar más en algún concepto. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> Presenta los conceptos básicos pero con imprecisiones en las definiciones o en su aplicación. Confunde parcialmente la relación entre los componentes del marco de Spolsky. El vínculo entre el marco teórico y el problema de investigación es débil. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> Presenta definiciones incorrectas o confusas de los conceptos fundamentales. No logra articular un marco teórico coherente. Los conceptos aparecen desconectados entre sí y del problema de investigación. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="fu">### Conceptos clave que deben aparecer</span></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>De acuerdo con Spolsky (2004, 2009), una política del lenguaje se compone de tres elementos:</span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Prácticas lingüísticas** (*language practices*): lo que los hablantes hacen, el comportamiento observable y sus elecciones (Spolsky, 2004, p. 42; Pérez Tejada, 2024, p. 42).</span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Creencias sobre la lengua** (*language beliefs/ideology*): el valor o estatus asignado a una lengua, las actitudes e ideologías lingüísticas (Spolsky, 2004; Woolard &amp; Schieffelin, 1994).</span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Gestión de la lengua** (*language management*): los esfuerzos realizados para cambiar las prácticas o creencias, dirigidos por un individuo o grupo reconocido como autoridad dentro del dominio (Spolsky, 2009; Neustupný, 2006).</span>
+<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a>Además, el trabajo debe incorporar:</span>
+<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Comunidad de habla**: grupo que comparte normas y reglas sobre el uso del lenguaje, no necesariamente una misma lengua (Romaine, 1996, p. 39; Gumperz, 1962).</span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Dominio**: espacio social (hogar, escuela, trabajo, gobierno) con participantes, locación y tópicos característicos; cada dominio tiene su propia política del lenguaje (Fishman, 1972; Spolsky, 2009, p. 3).</span>
+<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 3: Metodología</span></span>
+<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>La claridad y pertinencia del diseño metodológico para obtener los datos necesarios (en el caso de análisis) o para implementar la gestión propuesta (en el caso de proyectos de intervención).</span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Presenta un diseño metodológico claro, coherente con el problema de investigación y el marco teórico. Describe con precisión las técnicas de recolección de datos (observación etnográfica, entrevistas, análisis documental, etc.) o las fases de implementación del proyecto. Justifica las decisiones metodológicas. Considera las limitaciones del estudio. El modelo de planificación (Bourhis, 1984) se aplica correctamente cuando corresponde. <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> Describe la metodología de manera adecuada, aunque algunos aspectos podrían detallarse más. Las técnicas de recolección son pertinentes pero su justificación es limitada. Menciona algunas limitaciones del estudio. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> La metodología es vaga o presenta inconsistencias con el problema de investigación. No queda claro cómo se obtendrán los datos o cómo se implementará el proyecto. Las limitaciones no se consideran. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> No presenta metodología o la descripción es tan vaga que no permite evaluar la viabilidad del estudio/proyecto. Las técnicas propuestas son inapropiadas para el problema planteado. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a><span class="fu">### Para análisis de políticas existentes</span></span>
+<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a>Siguiendo a Spolsky (2004, p. 4), la investigación sobre políticas del lenguaje enfrenta retos específicos en la recopilación de datos:</span>
+<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Fuentes documentales**: leyes, constituciones, programas, materiales educativos</span>
+<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Observación etnográfica**: prácticas lingüísticas en contextos específicos</span>
+<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Entrevistas**: creencias y actitudes de los participantes</span>
+<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Censos y estadísticas**: datos cuantitativos sobre hablantes</span>
+<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a><span class="fu">### Para proyectos de intervención</span></span>
+<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a>De acuerdo con el esquema de Bourhis (1984), el proyecto debe considerar cuatro fases:</span>
+<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Planeación**: diagnóstico sociolingüístico</span>
+<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Decisiones políticas**: objetivos y estrategias</span>
+<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Implementación**: acciones concretas</span>
+<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a><span class="ss">4. </span>**Evaluación**: indicadores de logro</span>
+<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 4: Desarrollo del tema</span></span>
+<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a>La integración efectiva del marco teórico con los datos empíricos o con la propuesta de intervención. La capacidad de análisis crítico y la coherencia argumentativa.</span>
+<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Articula de manera coherente y profunda el marco teórico con los datos recopilados o con el diseño del proyecto. Identifica los tres componentes del modelo de Spolsky en el caso analizado. Relaciona las prácticas, creencias y gestión dentro del dominio estudiado. El análisis es crítico, evitando tanto la descripción superficial como los juicios infundados. La argumentación es clara y bien estructurada. <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> Integra el marco teórico con los datos de manera adecuada, aunque el análisis podría profundizar más en algunos aspectos. Identifica los componentes principales del modelo de Spolsky. La argumentación es clara pero puede presentar algunas debilidades. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> El desarrollo presenta datos o describe el proyecto, pero la integración con el marco teórico es débil. El análisis es principalmente descriptivo sin alcanzar un nivel crítico. Los conceptos teóricos aparecen de manera forzada o desconectada. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> No logra integrar el marco teórico con el análisis empírico o el diseño del proyecto. La presentación de datos es desorganizada. No hay análisis crítico, solo descripción superficial o afirmaciones sin sustento. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a><span class="fu">### Elementos esperados en el desarrollo</span></span>
+<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Descripción de la **ecología del lenguaje** del contexto estudiado (Haugen, 1972; Spolsky, 2009)</span>
+<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Identificación de las **prácticas lingüísticas** observables</span>
+<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Análisis de las **creencias e ideologías** presentes</span>
+<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Descripción de los mecanismos de **gestión** (explícitos e implícitos)</span>
+<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Relación entre los diferentes niveles de análisis (micro, meso, macro)</span>
+<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 5: Conclusiones</span></span>
+<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a>La capacidad de sintetizar los hallazgos, reconocer las limitaciones del trabajo y proyectar líneas futuras de investigación o acción.</span>
+<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Resume de manera precisa los hallazgos principales, vinculándolos con las preguntas de investigación planteadas. Reconoce las limitaciones del estudio de manera honesta y específica. Propone líneas de investigación futura o acciones de seguimiento pertinentes. Reflexiona sobre las implicaciones del estudio para el campo de las políticas del lenguaje o para la comunidad estudiada. <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> Resume los hallazgos principales de manera adecuada. Reconoce algunas limitaciones aunque podría ser más específico. Las propuestas de investigación futura son pertinentes pero generales. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> Las conclusiones son demasiado breves o repiten el contenido del desarrollo sin sintetizarlo. Las limitaciones no se reconocen o se minimizan. No hay propuestas de investigación futura. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> No presenta conclusiones o estas no se relacionan con el contenido del trabajo. Introduce información nueva que debió aparecer en el desarrollo. No hay reflexión sobre el trabajo realizado. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rúbrica 6: Bibliografía</span></span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a><span class="fu">### ¿Qué se evalúa?</span></span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>El uso correcto del formato APA, la pertinencia de las fuentes consultadas y la consistencia entre las citas en el texto y la lista de referencias.</span>
+<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nivel <span class="pp">|</span> Descripción <span class="pp">|</span> Puntos <span class="pp">|</span></span>
+<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|--------|</span></span>
+<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Excelente** <span class="pp">|</span> Todas las referencias siguen el formato APA 7ª edición de manera consistente. Las fuentes son pertinentes y actualizadas. Incluye obras fundamentales del campo (Spolsky, Fishman, Haugen, etc.) y fuentes específicas sobre el tema abordado. Todas las citas en el texto aparecen en la bibliografía y viceversa. Balance adecuado entre fuentes teóricas y empíricas. <span class="pp">|</span> 10 <span class="pp">|</span></span>
+<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Satisfactorio** <span class="pp">|</span> La mayoría de las referencias siguen el formato APA con errores menores. Las fuentes son pertinentes aunque podrían incluir más obras fundamentales o más fuentes específicas. Hay correspondencia entre citas y bibliografía con pocas excepciones. <span class="pp">|</span> 8 <span class="pp">|</span></span>
+<span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **En desarrollo** <span class="pp">|</span> Presenta errores frecuentes en el formato APA. Algunas fuentes no son pertinentes o faltan obras fundamentales del campo. Hay inconsistencias entre las citas en el texto y la bibliografía. <span class="pp">|</span> 6 <span class="pp">|</span></span>
+<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Insuficiente** <span class="pp">|</span> No sigue el formato APA o el formato es inconsistente. Las fuentes son insuficientes, no pertinentes o no académicas. Hay múltiples citas sin referencia o referencias sin citar. <span class="pp">|</span> 4 o menos <span class="pp">|</span></span>
+<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a><span class="fu">### Fuentes fundamentales esperadas</span></span>
+<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a>Según el programa del curso y la bibliografía de referencia:</span>
+<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a>**Marco teórico general:**</span>
+<span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Spolsky, B. (2004). *Language Policy*. Cambridge University Press.</span>
+<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Spolsky, B. (2009). *Language Management*. Cambridge University Press.</span>
+<span id="cb1-185"><a href="#cb1-185" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Ricento, T. (2000). Historical and theoretical perspectives in language policy and planning. *Journal of Sociolinguistics*, 4, 196-213.</span>
+<span id="cb1-186"><a href="#cb1-186" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Hamel, R. E. (1993). Políticas y planificación del lenguaje: una introducción. *Iztapalapa*, 29, 5-39.</span>
+<span id="cb1-187"><a href="#cb1-187" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-188"><a href="#cb1-188" aria-hidden="true" tabindex="-1"></a>**Conceptos analíticos:**</span>
+<span id="cb1-189"><a href="#cb1-189" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-190"><a href="#cb1-190" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fishman, J. A. (1972). The relationship between micro- and macro-sociolinguistics. En J.B. Pride (comp.), *Sociolinguistics* (pp. 435-453). Holt, Rinehart &amp; Winston.</span>
+<span id="cb1-191"><a href="#cb1-191" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Gumperz, J. J. (1962). Types of Linguistic Communities. *Anthropological Linguistics*, 4(1), 28-40.</span>
+<span id="cb1-192"><a href="#cb1-192" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Van Dijk, T. A. (2003). *Ideología y discurso: una introducción multidisciplinaria*. Ariel.</span>
+<span id="cb1-193"><a href="#cb1-193" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Woolard, K. A., &amp; Schieffelin, B. B. (1994). Language ideology. *Annual Review of Anthropology*, 23, 55-82.</span>
+<span id="cb1-194"><a href="#cb1-194" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-195"><a href="#cb1-195" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-196"><a href="#cb1-196" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-197"><a href="#cb1-197" aria-hidden="true" tabindex="-1"></a><span class="fu">## Tabla resumen de evaluación</span></span>
+<span id="cb1-198"><a href="#cb1-198" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-199"><a href="#cb1-199" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Criterio <span class="pp">|</span> Puntos posibles <span class="pp">|</span> Peso <span class="pp">|</span></span>
+<span id="cb1-200"><a href="#cb1-200" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-----------------|------|</span></span>
+<span id="cb1-201"><a href="#cb1-201" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Definición del problema <span class="pp">|</span> 15 <span class="pp">|</span> 15% <span class="pp">|</span></span>
+<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Marco teórico <span class="pp">|</span> 20 <span class="pp">|</span> 20% <span class="pp">|</span></span>
+<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Metodología <span class="pp">|</span> 20 <span class="pp">|</span> 20% <span class="pp">|</span></span>
+<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Desarrollo del tema <span class="pp">|</span> 20 <span class="pp">|</span> 20% <span class="pp">|</span></span>
+<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Conclusiones <span class="pp">|</span> 20 <span class="pp">|</span> 20% <span class="pp">|</span></span>
+<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Bibliografía <span class="pp">|</span> 5 <span class="pp">|</span> 5% <span class="pp">|</span></span>
+<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Total** | **100** | **100%** <span class="pp">|</span></span></code></pre></div><button title="Copiar al portapapeles" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+</div></div></div></div></div>
+</div> <!-- /content -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const referenceLinks = document.querySelectorAll('a[href*="references.html#"]');
+
+    referenceLinks.forEach(link => {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+
+    });
+
+    if (window.location.pathname.includes('references.html') && window.location.hash) {
+        setTimeout(() => {
+            const target = document.querySelector(window.location.hash);
+            if (target) {
+                target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }, 200);
+    }
+});
+</script>
+
+
+
+
+</body></html>
