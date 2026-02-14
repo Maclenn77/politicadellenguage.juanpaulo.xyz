@@ -1,5 +1,12 @@
 ---
 title: "Referencias"
+format:
+  html:
+    theme: 
+      - cosmo
+    css: 
+      - styles.css
+      - references-style.css
 ---
 :::{#Fishman1965}
 Fishman, J. (1965). «Who Speaks What Language to Whom and When?» en La Linguistique, 1(2), 67-88. (consultado en línea desde http://www.jstor.org/stable/30248773 el 9 de abril de 2021)

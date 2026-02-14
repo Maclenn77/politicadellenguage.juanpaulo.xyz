@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
     line-height: 1.6;
     color: #333;
 }
@@ -388,4 +389,22 @@ div[id]:target {
   
   .iframe-container:hover .iframe-overlay {
     display: none;
+  }
+
+  /* Overwriting styles for specific sections */
+  .callout {
+    background-color: white;
+  }
+
+  a.btn.btn-primary {
+    background-color: #6B2FBF !important;
+    color: white;
+    margin: 30px 0;
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    transition: background-color 0.3s ease;
   }
