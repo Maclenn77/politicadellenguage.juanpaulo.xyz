@@ -7,7 +7,7 @@ toc-title: "Contenido"
 ## Fundamentos de las políticas del lenguaje
 - [Presentación](./contenido/00_presentacion.html)
 - Introducción al curso y conceptos básicos. [¿Qué son las políticas del lenguaje?](./contenido/01_que_es_politica_del_lenguaje.html)
-- Política del lenguaje como campo de estudio: orígenes y desarrollo.
+- Política del lenguaje como campo de estudio: orígenes y desarrollo. [Historia de las políticas del lenguaje](./contenido/02_historia_de_las_politicas_del_lenguaje.html) 
 - Planificación lingüística.
 
 ## Herramientas conceptuales para el análisis
