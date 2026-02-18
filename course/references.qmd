@@ -41,8 +41,8 @@ Hymes, D. (1972). «On communicative competence» en Sociolinguistics. pp. 269-2
 :::{#Kymlicka2001}
 Kymlicka, W. (2001) *Politics in the Vernacular Nationalism, Multiculturalism, and Citizenship*. Oxford.
 :::
-:::{#KymlickaPatten2004}
-Kymlicka, W. y Patten, A. (2004): *Language Rights and Political Theory*, Oxford.
+:::{#KymlickaPatten2003}
+Kymlicka, W. y Patten, A. (2003): *Language Rights and Political Theory*, Oxford.
 :::
 :::{#Labrie1996}
 Labrie, N. (1996). La politique linguistique. En H. Goebl, P. H. Nelde, Z. Starý & W. Wölck (Eds.), *Contact Linguistics: An International Handbook of Contemporary Research* (Vol. 1, pp. 826-834). Berlin: Walter de Gruyter.
@@ -80,6 +80,9 @@ Spolsky, B. (2009). Language policy and language assessment. New York, NY: Cambr
 :::
 ::: {#Spolsky2012}
 Spolsky, B. (Ed.). (2012). The Cambridge Handbook of Language Policy (Cambridge Handbooks in Language and Linguistics). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511979026
+:::
+:::{#Tauli1968}
+Tauli, V. 1968 , Introduction to a Theory of Language Planning , Uppsala (Acta Universitatis Upsaliensis. Studia Philologiae Scandinavicae Upsaliensia 6).
 :::
 :::{#Tollefson1991}
 Tollefson, J. W. (1991). *Planning Language, Planning Inequality: Language Policy in the Community*. Londres/Nueva York: Longman.

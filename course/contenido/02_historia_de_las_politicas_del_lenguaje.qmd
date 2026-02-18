@@ -30,9 +30,9 @@ Examinaremos el desarrollo histórico del campo de las políticas del lenguaje d
 #### Contexto histórico y factores de surgimiento
 El estudio sistemático de las políticas del lenguaje surge en un momento histórico específico: el período inmediatamente posterior a la Segunda Guerra Mundial. Ricento ([2000](../references.html#Ricento2000), p. 197) identifica tres factores clave que confluyeron para crear las condiciones necesarias para el nacimiento de este campo:
 
-La descolonización y la formación de nuevos estados nacionales: Entre las décadas de 1950 y 1970, numerosos países africanos y asiáticos obtuvieron su independencia de las potencias coloniales europeas. Estos nuevos estados enfrentaban el desafío de construir identidades nacionales cohesivas en territorios caracterizados por una enorme diversidad lingüística y cultural.
-La predominancia del estructuralismo en las ciencias sociales: El paradigma estructuralista, con su énfasis en sistemas, reglas y planificación racional, proporcionó el marco epistemológico para abordar los problemas sociales, incluidos los lingüísticos, como fenómenos susceptibles de análisis científico y modificación deliberada.
-La firme creencia en la posibilidad de resolver problemas relacionados con la lengua mediante planificación: Existía un optimismo generalizado sobre la capacidad de la ciencia aplicada y la planificación social para resolver problemas complejos, incluida la gestión de la diversidad lingüística.
+- **La descolonización y la formación de nuevos estados nacionales**: Entre las décadas de 1950 y 1970, numerosos países africanos y asiáticos obtuvieron su independencia de las potencias coloniales europeas. Estos nuevos estados enfrentaban el desafío de construir identidades nacionales cohesivas en territorios caracterizados por una enorme diversidad lingüística y cultural.
+- **La predominancia del estructuralismo en las ciencias sociales**: El paradigma estructuralista, con su énfasis en sistemas, reglas y planificación racional, proporcionó el marco epistemológico para abordar los problemas sociales, incluidos los lingüísticos, como fenómenos susceptibles de análisis científico y modificación deliberada.
+- **La firme creencia en la posibilidad de resolver problemas relacionados con la lengua mediante planificación**: Existía un optimismo generalizado sobre la capacidad de la ciencia aplicada y la planificación social para resolver problemas complejos, incluida la gestión de la diversidad lingüística.
 
 Tollefson ([2006](../references.html#Tollefson2006)) añade que estos trabajos tempranos, que ven su auge durante las décadas de 1960 y 1970, buscaron explícitamente ayudar en la consolidación de la unidad nacional y en el desarrollo económico de estados recientemente independizados o que enfrentaban situaciones multiétnicas. La planificación lingüística se concebía como una herramienta técnica para la construcción nacional (nation-building).
 
@@ -41,7 +41,7 @@ Einar Haugen, investigador norteamericano especialista en lenguas escandinavas, 
 
 En 1959, Haugen introduce el concepto de «planificación lingüística» (language planning) con la siguiente definición:
 
-> Por planificación lingüística entiendo la actividad de preparar ortografía, gramática y diccionario normativos para dirigir a hablantes y escritores en una comunidad de habla no homogénea. En esta aplicación práctica del conocimiento lingüístico, nos dirigimos más allá de la lingüística descriptiva, hacia un área donde el juicio debe ser ejercido en forma de elecciones entre las formas lingüísticas disponibles. La planificación implica un intento de guiar el desarrollo de una lengua en la dirección deseada por los planificadores. Esto no sólo significa predecir el futuro con base en el conocimiento disponible sobre el pasado, sino también un esfuerzo deliberado por influirlo (Haugen, [1959](../references.html#Haugen1959), traducido y citado en Pérez Tejada, [2024](../references.html#PerezTejada2024), p. 19).
+> Por planificación lingüística entiendo la actividad de preparar ortografía, gramática y diccionario normativos para dirigir a hablantes y escritores en una comunidad de habla no homogénea. En esta aplicación práctica del conocimiento lingüístico, nos dirigimos más allá de la lingüística descriptiva, hacia un área donde el juicio debe ser ejercido en forma de elecciones entre las formas lingüísticas disponibles. La planificación implica un intento de guiar el desarrollo de una lengua en la dirección deseada por los planificadores. Esto no sólo significa predecir el futuro con base en el conocimiento disponible sobre el pasado, sino también un esfuerzo deliberado por influirlo (Haugen, [1959](../references.html#Haugen1959)).
 
 Esta definición inicial se centra en la estandarización lingüística —la creación de normas ortográficas, gramaticales y lexicográficas— como actividad central de la planificación. Sin embargo, Haugen posteriormente reconocería que esta conceptualización era demasiado restringida. En 1987, el propio Haugen reflexiona sobre su definición original y señala que preferiría considerarla como uno de los resultados de la planificación lingüística, como parte de la implementación de las decisiones tomadas por los planificadores, reconociendo que el núcleo de la planificación es más bien el ejercicio del juicio en la forma de elección entre formas lingüísticas disponibles (Jernudd y Nekvapìl, 2012, p. 24).
 
@@ -49,9 +49,7 @@ Esta definición inicial se centra en la estandarización lingüística —la cr
 Desde sus inicios, existió un debate sobre dónde ubicar el estudio de la planificación lingüística dentro del panorama de las ciencias del lenguaje. Haugen (1968, p. 940) identifica tres posibles aproximaciones:
 
 - **Como campo de la lingüística aplicada**: Esta perspectiva, heredera de Otto Jespersen, enfatizaba la aplicación práctica del conocimiento lingüístico a problemas cotidianos. Desde este enfoque, la planificación lingüística sería esencialmente una tarea técnica en la que los lingüistas ofrecen soluciones basadas en principios científicos.
-
 - **Como campo de la sociolingüística**: Haugen considera esta la aproximación más prometedora. La planificación lingüística se concebiría como un campo intermedio «en el cual colegas dentro de la sociología (y eventualmente en la política, la educación, la historia, la economía y la psicología) colaboran en la solución de problemas prácticos» (Haugen, 1968, p. 940). Esta visión anticipaba el carácter interdisciplinario que eventualmente caracterizaría al campo.
-
 - **Como ciencia normativa**: Propuesta principalmente por Tauli (1968), esta perspectiva distingue entre la actividad de la planificación lingüística y la teoría de la planificación lingüística. La teoría evaluaría los hechos y ofrecería normas para mejorar en conformidad con un ideal lingüístico. Esta aproximación, sin embargo, fue criticada por sus implicaciones prescriptivistas.
 
 #### Clasificaciones tipológicas: organizando la diversidad
@@ -80,11 +78,8 @@ Este concepto, aunque marginal durante décadas (Garner, 2005; Van den Bussche, 
 Ricento ([2000](../references.html#Ricento2000), p. 200) resume las características fundamentales de este periodo en cuatro tendencias:
 
 - Metas orientadas a la unificación y modernización: Las metas de la planificación lingüística estaban comúnmente asociadas a deseos de unificación (de una región, nación, grupo religioso o político), modernización, eficiencia o democratización (Rubin, 1971, pp. 307-310). El énfasis estaba en la construcción nacional y el desarrollo económico.
-
 - **La lengua como recurso planificable**: La lengua fue caracterizada como un recurso con valor intrínseco y, por tanto, como objeto legítimo de planificación deliberada (Jernudd y Das Gupta, 1971, p. 211). Este enfoque reflejaba la mentalidad tecnocrática de la época.
-
 - **Separación entre planificación del corpus y del estatus**: Ambos tipos de planificación fueron concebidos como actividades relativamente independientes e ideológicamente neutrales, ignorando las dimensiones políticas y de poder inherentes a las decisiones lingüísticas.
-
 - **Abstracción de contextos sociohistóricos**: Las lenguas fueron abstraídas de sus contextos sociohistóricos y ecológicos, enfatizando la sincronía y la ahistoricidad. Esta descontextualización impidió comprender las dimensiones históricas y políticas más profundas de las situaciones lingüísticas.
 
 Ricento ([2000](../references.html#Ricento2000), p. 200) destaca que, aunque hubo posturas críticas durante este periodo, estas críticas se limitaron a aspectos técnicos que ignoraban asuntos más complejos como «la elección de una lengua, las identidades individuales y de grupo, y las estructuras socioeconómicas y jerárquicas de inequidad».
@@ -106,7 +101,6 @@ Las clasificaciones de las políticas del lenguaje y de las sociedades multiling
 Más fundamentalmente, se criticó que estas clasificaciones tendían a reificar las lenguas como entidades claramente delimitadas, ignorando la fluidez, la variación interna y los procesos dinámicos de cambio lingüístico. Las fronteras entre lenguas y dialectos, lejos de ser hechos naturales, son frecuentemente construcciones políticas e ideológicas.
 
 #### Factores más allá de la lengua
-
 El fracaso de la modernización obligó a revisar la teoría de planificación lingüística existente y a cuestionar distintos conceptos en la sociolingüística. Factores más allá de la lengua —estructuras económicas, relaciones de poder, ideologías dominantes— comenzaron a ser un tema central en los estudios sobre políticas del lenguaje.
 Como observa Ricento ([2000](../references.html#Ricento2000), p. 202):
 
@@ -139,7 +133,7 @@ En este periodo, el rol de la ideología en las políticas del lenguaje comienza
 
 Se reconoce que las políticas lingüísticas nunca son meramente técnicas, sino que siempre están imbuidas de suposiciones ideológicas sobre qué lenguas son valiosas, quiénes son hablantes legítimos, y qué formas de hablar son apropiadas en diferentes contextos. Analizar estas ideologías se vuelve esencial para comprender cómo las políticas lingüísticas operan en la práctica.
 
-Simultáneamente, se integran conceptos desde la ciencia política y los derechos humanos. Kymlicka (2003) y otros teóricos políticos han argumentado que los derechos lingüísticos deben ser reconocidos como parte integral de los derechos humanos fundamentales, y que los estados tienen obligaciones positivas de proteger y promover las lenguas minoritarias.
+Simultáneamente, se integran conceptos desde la ciencia política y los derechos humanos. Kymlicka ([2001](../references.html#Kymlicka2001); Kymlicka y Patten, [2003](../references.html#KymlickaPatten2003)) y otros teóricos políticos han argumentado que los derechos lingüísticos deben ser reconocidos como parte integral de los derechos humanos fundamentales, y que los estados tienen obligaciones positivas de proteger y promover las lenguas minoritarias.
 
 #### De la planificación a la gestión
 Como resultado de estas transformaciones, varios autores han preferido utilizar «gestión de la lengua» (language management) en lugar de «planificación de la lengua». Spolsky ([2009](../references.html#Spolsky2009), pp. 4-5) considera que la gestión de la lengua «captura con más precisión la naturaleza del fenómeno. Planificación fue un término utilizado en las décadas de 1950 y 1960 durante el entusiasmo de la posguerra por corregir problemas sociales». Los fracasos en la planificación social y económica han desalentado el uso de esta palabra.
@@ -159,7 +153,6 @@ Este periodo actual, de acuerdo con Ricento (_ídem_.), se caracteriza por:
 Justicia lingüística y derechos: Marco normativo que enfatiza la justicia social, los derechos humanos y la equidad como criterios centrales para evaluar las políticas lingüísticas.
 
 ### Conclusiones: Factores en el desarrollo del campo
-
 En los intereses y en las propuestas teóricas sobre las políticas del lenguaje, tres tipos de factores han influido (Ricento, [2000](../references.html#Ricento2000)):
 
 - Macro-sociopolíticos: Los problemas globales o nacionales que enfrentaron quienes comenzaron a teorizar sobre el campo —descolonización, construcción nacional, globalización, movimientos migratorios.
@@ -168,6 +161,6 @@ En los intereses y en las propuestas teóricas sobre las políticas del lenguaje
 
 El campo ha evolucionado desde una visión tecnocrática que conceptualizaba las políticas lingüísticas como intervenciones técnicas neutras, pasando por un momento de crítica que desveló las dimensiones de poder e inequidad inherentes a la gestión lingüística, hasta llegar a perspectivas contemporáneas que integran preocupaciones por la justicia social, los derechos humanos y la preservación de la diversidad lingüística y cultural.
 
-Esta trayectoria histórica no debe entenderse como un progreso lineal hacia una verdad definitiva, sino como un proceso de complejización progresiva de nuestra comprensión. Cada periodo ha aportado insights valiosos: el primer periodo nos dio herramientas conceptuales fundamentales para analizar situaciones lingüísticas; el segundo nos hizo conscientes de las dimensiones políticas e ideológicas de las políticas lingüísticas; el tercero nos ha proporcionado marcos más sofisticados para comprender la interacción entre estructuras globales y agencias locales.
+Esta trayectoria histórica no debe entenderse como un progreso lineal hacia una verdad definitiva, sino como un proceso de complejización progresiva de nuestra comprensión. Cada periodo ha aportado perspectivas valiosas: el primer periodo nos dio herramientas conceptuales fundamentales para analizar situaciones lingüísticas; el segundo nos hizo conscientes de las dimensiones políticas e ideológicas de las políticas lingüísticas; el tercero nos ha proporcionado marcos más sofisticados para comprender la interacción entre estructuras globales y agencias locales.
 
 El marco teórico que se utiliza en este curso —particularmente la propuesta de Spolsky sobre prácticas, creencias y gestión— es heredero de todas estas reflexiones previas. Retoma conceptos establecidos en el primer periodo (como ecología y comunidad de habla), incorpora las críticas del segundo periodo, y del tercer periodo reconoce la importancia de integrar el análisis del discurso y la ideología como método para entender las creencias que están detrás de las políticas del lenguaje propuestas en determinado lugar y época.
