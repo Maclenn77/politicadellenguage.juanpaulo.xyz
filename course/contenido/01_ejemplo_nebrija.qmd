@@ -24,4 +24,4 @@ En esta sección se presenta un ejemplo de análisis de un texto histórico rela
 </div>
 
 <hr>
-[Anterior tema](./01_que_es_politica_del_lenguaje.html)|[Siguiente tema](./02_periodos_de_las_politicas_del_lenguaje.html)
+[Anterior tema](./01_que_es_politica_del_lenguaje.html)|[Siguiente tema](./02_historia_de_las_politicas_del_lenguaje.html)
