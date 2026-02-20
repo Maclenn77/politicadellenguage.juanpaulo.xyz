@@ -22,7 +22,7 @@ Para el turno de la tarde, los reportes y la participación en el foro contarán
 
 La evaluación del curso se hará a través de tres actividades principales:
 
-- **Participación en clase**: Se valorará la participación activa en las discusiones y actividades en clase. Esto incluye la preparación previa a las sesiones, la contribución a las discusiones y el respeto hacia las opiniones de los demás. (60%)
+- **Participación en clase**: Se valorará la participación activa en las discusiones y actividades en clase. Esto incluye la preparación previa a las sesiones, la contribución a las discusiones y el respeto hacia las opiniones de los demás. Quienes prefieran no participar, deberán entregar un reporte de lectura previo al inicio de la clases siguiendo las indicaciones para sesión. (60%)
 - **Presentación del trabajo final**: Se requerirá una presentación oral del trabajo final, que debe ser clara, bien estructurada y basada en la investigación realizada para el trabajo final. La presentación debe durar entre 15 y 20 minutos, seguida de una sesión de preguntas y respuestas. [Revisa rúbrica](rubrica_exposicion.html) (20%)
 - **Trabajo final**: Se requerirá la elaboración de un trabajo final que aborde un tema relacionado con las políticas del lenguaje. El trabajo debe ser original, bien argumentado y basado en la literatura académica vista en clase. [Revisa rúbrica](rubrica_trabajo_final.html) (20%)
 
@@ -34,3 +34,52 @@ La evaluación del curso se hará a través de tres actividades principales:
 - **Participación en foro de discusión**: En lugar de la participación en clase, se espera que los estudiantes participen activamente en un foro de discusión en línea, donde podrán compartir sus ideas, hacer preguntas y responder a las publicaciones de sus compañeros. (30%)
 - **Presentación del trabajo final**: Se requerirá una presentación oral del trabajo final, que debe ser clara, bien estructurada y basada en la investigación realizada para el trabajo final. La presentación debe durar entre 15 y 20 minutos, seguida de una sesión de preguntas y respuestas. [Revisa rúbrica](rubrica_exposicion.html) (20%)
 - **Trabajo final**: Se requerirá la elaboración de un trabajo final que aborde un tema relacionado con las políticas del lenguaje. El trabajo debe ser original, bien argumentado y basado en la literatura académica vista en clase. [Revisa rúbrica](rubrica_trabajo_final.html) (20%)
+
+## Reportes de lectura
+
+Para quienes prefieran no participar en clase, o para quienes estén en el turno de la tarde, se requerirá la entrega de un reporte de lectura para cada una de las lecturas asignadas. Las indicaciones de cada reporte se encuentran aquí abajo, y se deben entregar antes del inicio de la clase correspondiente a cada lectura.:
+
+### Sesión 1
+
+:::{.callout-note}
+#### Lectura
+Spolsky ([2004](../references.html#Spolsky2004)) - Capítulo 1: "What is language policy?"
+:::
+
+Identifica tres políticas del lenguaje y, basado en el texto de Spolsky, haz un breve ensayo donde abordes:
+
+- ¿Qué es una política del lenguaje? La definición de Spolsky, ¿concuerda o difiere con la definición que previeamente tenías de política del lenguaje?
+- La política del lenguaje, ¿es un objeto de estudio, un campo de estudio, o una disciplina?
+- ¿Cómo se obtiene el dato en la política del lenguaje? ¿Qué tipo de datos se necesitan para estudiar las políticas del lenguaje?
+- De tus ejemplos, ¿Por qué ese ejemplo es una política del lenguaje?
+- Conclusiones
+
+### Sesión 2
+
+:::{.callout-note}
+#### Lectura
+- Ricento([2000](../references.html#Ricento2000)) -"Historical and theoretical perspectives in language policy and planning"
+- Hamel([1993](../references.html#Hamel1993)) - "Políticas y planificación del lenguaje: una introducción"
+:::
+
+Después de la lectura de Hammel y Ricento, realiza la siguiente actividad:
+
+- Explorar la bibliografía relacionada con Política del lenguaje producida en México. Para esto, revisa el catálogo de diferentes bibliotecas. Probablemente necesitarás utilizar diferentes palabras clave. Basado en la lectura de Ricento y Hamel, **¿qué palabras clave utilizarías para buscar trabajos relacionados con las políticas del lenguaje en México?**
+- Revisa los títulos de los resultados. Basado en los títulos: **¿Qué temas son los más comunes relacionados con el estudio de políticas del lenguaje en México?**
+- Por último, escoje tres trabajos que te llamen más la atención. Varios son accesibles en línea, o bien, consúltenlos en la biblioteca. No necesitan leerlos, basta con revisar el _abstract_ y consultar las referencias. Basado en la lectura de Hamel y Ricento, **¿este trabajo se incorpora de alguna manera en la caracterización que ofrecen del campo de estudio Hamel y Ricento?**, **¿cuáles son los autores más citados?**
+
+Redacta un breve ensayo donde respondas a estas preguntas, y reflexiones sobre lo que has encontrado. Puedes incluir citas de los textos de Hamel y Ricento, así como de los trabajos que hayas encontrado en tu búsqueda.
+
+### Sesión 3
+
+:::{.callout-note}
+#### Lectura
+- Haugen ([1982](../references.html#Haugen1982)) - "The Implementation of Corpus Planning: Theory and Practice"
+- Bourhis ([1984](../references.html#Bourhis1984)) - "Language policy and planning: Theoretical and empirical issues"
+- Zimmerman ([1999](../references.html#Zimmerman1999)) - Política del lenguaje y planificación para los pueblos amerindios: ensayos de ecología lingüística.
+:::
+
+- Piensa en una política o esfuerzo de planificación lingüística actual o del pasado, ya sea de México o de otro país. Esa política que escogieron, ¿qué tipo de política de planificación es? ¿De estatus o de corpus? ¿Pueden describirla usando el esquema que propone Bourhis? 
+- Basado en las lecturas, responde: ¿realmente se requiere un esfuerzo de planificación de la lengua? ¿O es una extralimitación del Estado? ¿Hay un tipo de planificación aceptable y otro que no?  ¿Cuál sería la diferencia entre la planificación lingüística y la gestión de la lengua?
+
+El reporte debe estar escrito en forma de ensayo.
