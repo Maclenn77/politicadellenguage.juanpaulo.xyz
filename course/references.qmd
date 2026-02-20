@@ -8,6 +8,9 @@ format:
       - styles.css
       - references-style.css
 ---
+:::{#Bourhis1984}
+Bourhis, R. Y. (1984). Introduction: Language Policies in Multilingual Settings. En Bourhis (ed.), _Conflict and Language Planning in Quebec_, pp. 1-28.
+:::
 :::{#Crystal2000}
 Crystal, D. (2000). Language death. Cambridge University Press.
 :::
