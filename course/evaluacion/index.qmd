@@ -22,7 +22,7 @@ Para el turno de la tarde, los reportes y la participación en el foro contarán
 
 La evaluación del curso se hará a través de tres actividades principales:
 
-- **Participación en clase**: Se valorará la participación activa en las discusiones y actividades en clase. Esto incluye la preparación previa a las sesiones, la contribución a las discusiones y el respeto hacia las opiniones de los demás. Quienes prefieran no participar, deberán entregar un reporte de lectura previo al inicio de la clases siguiendo las indicaciones para sesión. (60%)
+- **Participación en clase**: Se valorará la participación activa en las discusiones y actividades en clase. Esto incluye la preparación previa a las sesiones, la contribución a las discusiones y el respeto hacia las opiniones de los demás. Quienes prefieran no participar, deberán entregar un reporte de lectura previo al inicio de la clases siguiendo las indicaciones para la sesión. (60%)
 - **Presentación del trabajo final**: Se requerirá una presentación oral del trabajo final, que debe ser clara, bien estructurada y basada en la investigación realizada para el trabajo final. La presentación debe durar entre 15 y 20 minutos, seguida de una sesión de preguntas y respuestas. [Revisa rúbrica](rubrica_exposicion.html) (20%)
 - **Trabajo final**: Se requerirá la elaboración de un trabajo final que aborde un tema relacionado con las políticas del lenguaje. El trabajo debe ser original, bien argumentado y basado en la literatura académica vista en clase. [Revisa rúbrica](rubrica_trabajo_final.html) (20%)
 
