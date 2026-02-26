@@ -4,13 +4,13 @@ La planificación lingüística como concepto académico fue acuñada por Haugen
 
 Haugen revisó posteriormente esta definición al señalar que su formulación inicial era más un *resultado* de la planificación que su esencia. Para él, el núcleo de la planificación lingüística consiste en el «ejercicio de juzgar en forma de decisiones entre las formas lingüísticas disponibles» (Haugen, 1966, p. 52). Finalmente, propuso una definición más abarcadora: la planificación lingüística como «la evaluación del cambio lingüístico» (1966, p. 52).
 
-Haugen también señala que la actividad que buscaba describir con el término existía mucho antes de que hubiera una teoría sobre ella. Los esfuerzos de estandarización y normativización de las lenguas —desde las gramáticas misioneras coloniales hasta las academias europeas del siglo XVII— son formas de planificación lingüística avant la lettre. En este sentido, la planificación lingüística es una actividad que se ha llevado a cabo a lo largo de la historia, aunque no siempre se haya conceptualizado como tal.
+Haugen también señala que la actividad que buscaba describir con el término existía mucho antes de que hubiera una teoría sobre ella. Los esfuerzos de estandarización y normativización de las lenguas —desde las gramáticas misioneras coloniales hasta las academias europeas del siglo XVII— son formas de planificación lingüística _avant la lettre_. En este sentido, la planificación lingüística es una actividad que se ha llevado a cabo a lo largo de la historia, aunque no siempre se haya conceptualizado como tal.
 
 La planificación lingüística sucede cuando una autoridad busca influir en un espacio físico para cambiar condiciones lingüísticas que considera insatisfactorias mediante una serie de acciones (Zimmermann, 1999). Bajo esta perspectiva, la planificación es siempre una parte de la gestión lingüística y una forma de su explicitación.
 
 ## ¿Cómo se planifica una lengua?
 
-### El modelo de cuatro celdas (20 min)
+### El modelo de cuatro celdas
 
 En su texto de 1982, Haugen presenta un modelo para describir las actividades de planificación lingüística que articula dos dimensiones:
 
@@ -32,7 +32,7 @@ Los cuatro componentes son:
 
 **1. Selección** (*selection of norm*). Decisión social sobre qué variante, lengua o forma será la norma de referencia. Implica identificar un problema lingüístico y asignar estatus relativo a las normas en conflicto. La selección puede ser resultado de un decreto, de un acuerdo colectivo o de la práctica acumulada de grupos con autoridad (Haugen, 1982: p. 270-271). No es exclusiva de los gobiernos: individuos, iglesias, partidos políticos o comunidades voluntarias pueden realizar selecciones que se vuelvan normativas.
 
-**2. Codificación** (*codification of norm*). Proceso de dar forma explícita —generalmente escrita— a la norma seleccionada. Haugen distingue tres sub-procesos [@haugen1982, p. 271]:
+**2. Codificación** (*codification of norm*). Proceso de dar forma explícita —generalmente escrita— a la norma seleccionada. Haugen ([1982](../references.html#haugen1982)) distingue tres subprocesos:
 
   - *Grafización*: adaptación o creación de un sistema de escritura (Ferguson, 1968).
   - *Gramatización*: formulación de las reglas de la gramática correcta.
@@ -40,25 +40,13 @@ Los cuatro componentes son:
   
   El producto típico de la codificación es una ortografía, una gramática y un diccionario prescriptivos.
 
-**3. Implementación** (*implementation of function*). Conjunto de acciones para difundir y hacer efectiva la norma codificada: producción de libros, periódicos y libros de texto; introducción de la variante en la escuela y los medios; leyes y reglamentos que incentivan o desincentivan su uso [@haugen1982, p. 272]. La implementación es el paso que convierte las decisiones en papel en realidad social. Haugen señala que la extensión de la escolarización a poblaciones enteras hizo de la implementación un asunto educativo mayor en el siglo XX.
+**3. Implementación** (*implementation of function*). Conjunto de acciones para difundir y hacer efectiva la norma codificada: producción de libros, periódicos y libros de texto; introducción de la variante en la escuela y los medios; leyes y reglamentos que incentivan o desincentivan su uso (Haugen, 1982: p. 272]. La implementación es el paso que convierte las decisiones en papel en realidad social. Haugen señala que la extensión de la escolarización a poblaciones enteras hizo de la implementación un asunto educativo mayor en el siglo XX.
 
 **4. Elaboración** (*elaboration of function*). Desarrollo continuo de la lengua para responder a las funciones de la vida moderna: creación de terminología especializada, desarrollo estilístico, extensión de las funciones de la lengua a nuevos dominios. Haugen la vincula con el concepto alemán de *Ausbau* (Kloss) y con la noción de "cultivo" (*cultivation*) de Neustupný, aunque prefiere el término elaboración por su mayor neutralidad científica [@haugen1982, p. 273].
 
+### La distinción corpus / estatus
 
-### El modelo de Bourhis y el proceso de planificación (20 min)
-
-Para describir el proceso mediante el cual se lleva a cabo la planificación, el modelo de Bourhis (1984) resulta especialmente pertinente porque permite identificar los momentos clave de cualquier intervención lingüística. Bourhis propone cuatro actividades básicas:
-
-1. **Planeación** (*planning*): obtención de datos sociolingüísticos para describir el problema e identificar posibles soluciones.
-2. **Decisiones políticas** (*policy decision*): elecciones concretas para llevar a cabo el plan, considerando costos y viabilidad.
-3. **Implementación** (*implementation*): ejecución del plan por parte de una institución o gestor.
-4. **Evaluación** (*evaluation*): análisis de los resultados y búsqueda de mejoras en los procedimientos (Bourhis, 1984, pp. 8-22).
-
-Una actividad de planificación lingüística y la creación de agencias especializadas suelen ser respuestas a una situación percibida como problemática en una comunidad.
-
-### La distinción corpus / estatus: Kloss (1969)
-
-A partir del modelo de Haugen, Kloss [-@kloss1969] introduce la distinción que se volvió canónica en el campo:
+A partir del modelo de Haugen, Kloss (1969) introduce la distinción que se volvió canónica en el campo:
 
 | Tipo de planificación | Objeto de intervención | Pregunta central |
 |----------------------|----------------------|-----------------|
@@ -66,3 +54,48 @@ A partir del modelo de Haugen, Kloss [-@kloss1969] introduce la distinción que 
 | **Planificación del estatus** | La función social y legal de la lengua | ¿Qué posición ocupa la lengua frente a otras en el espacio público? |
 
 Haugen mismo adopta esta distinción en el artículo de 1982: selección y codificación corresponden a la planificación de forma (*policy planning*), mientras que implementación y elaboración corresponden a la planificación de función.
+
+### El modelo de Bourhis y el proceso de planificación
+
+Para describir el proceso mediante el cual se lleva a cabo la planificación, el modelo de Bourhis (1984) resulta especialmente pertinente porque permite identificar los momentos clave de cualquier intervención lingüística. Bourhis propone cuatro actividades básicas:
+
+1. **Planificación** (*planning*): obtención de datos sociolingüísticos para describir el problema e identificar posibles soluciones.
+2. **Decisiones políticas** (*policy decision*): elecciones concretas para llevar a cabo el plan, considerando costos y viabilidad.
+3. **Implementación** (*implementation*): ejecución del plan por parte de una institución o gestor.
+4. **Evaluación** (*evaluation*): análisis de los resultados y búsqueda de mejoras en los procedimientos (Bourhis, 1984, pp. 8-22).
+
+Una actividad de planificación lingüística y la creación de agencias especializadas suelen ser respuestas a una situación percibida como problemática en una comunidad.
+
+### ¿Deben participar los lingüistas en la planificación?
+
+La tradición estructuralista —explícita en el texto de Haugen cuando recuerda que un especialista en lenguas indígenas descalificó la planificación como asunto "puramente político"— tiende a separar descripción y prescripción: el lingüista describe, no prescribe. Sin embargo, esta separación es problemática porque la planificación lingüística es una actividad que ocurre de todas formas, con o sin la participación de los lingüistas. La pregunta no es si deben participar, sino cómo hacerlo de manera ética y responsable.
+
+Klaus Zimmermann, romanista y lingüista alemán especialista en lenguas iberorrománicas e indígenas de América, nos plantea las siguientes preguntas:
+
+1. ¿Es necesaria y legítima la planificación lingüística, o es una intervención inaceptable en el desarrollo natural de las lenguas?
+2. ¿Debe participar el lingüista en los procesos de planificación, o debe limitarse a describir?
+
+### La necesidad de planificar
+
+Zimmermann argumenta que la planificación lingüística es necesaria porque las lenguas **no cambian en el vacío**. El cambio lingüístico siempre ocurre en un campo de fuerzas sociales, económicas y políticas. Cuando ese campo es profundamente desigual —como lo es el de las lenguas amerindias frente al español en América Latina— dejar que el "mercado lingüístico" (en términos de Bourdieu) opere sin intervención equivale a acelerar la extinción de las lenguas con menor poder social.
+
+En este sentido, la ausencia de planificación es también una forma de política: una política de *laissez-faire* que beneficia a las lenguas dominantes (Zimmerman, 1999: pp. 9-14). La neutralidad es imposible. La pregunta no es si intervenir, sino *cómo* y *en beneficio de quién*.
+
+### Dimensiones éticas de la planificación
+
+Zimmermann incorpora una dimensión ética que los modelos de Haugen y Bourhis dejan en segundo plano. La planificación lingüística implica juicios de valor sobre:
+
+- **Qué lenguas merecen ser preservadas** y por qué (argumento de diversidad lingüística, derechos culturales, patrimonio humano).
+- **Qué variante de una lengua debe codificarse** cuando existen dialectos que compiten.
+- **A quién beneficia** cada decisión de planificación.
+
+Para los pueblos amerindios, la cuestión ética es especialmente aguda porque las lenguas están vinculadas a identidades étnico-culturales y a formas de conocimiento que no pueden reducirse a la lengua mayoritaria (Zimmerman, 1999: pp. 14-17).
+
+A favor de la planificación, Zimmermann ofrece dos argumentos:
+
+- *Fáctico*: los lingüistas han participado históricamente en procesos de planificación (creación de alfabetos, redacción de gramáticas, diseño de materiales educativos). La pretensión de neutralidad es una ficción (Zimmermann, 1999).
+- *Normativo*: dado que la planificación ocurrirá de todas formas, es mejor que quienes tienen conocimientos lingüísticos participen con rigor científico que dejar el campo exclusivamente a actores sin esa formación.
+
+Esto implica, sin embargo, una responsabilidad: el lingüista debe ser consciente de que sus decisiones técnicas tienen consecuencias políticas y sociales.
+<hr>
+[Anterior tema](02_historia_de_las_politicas_del_lenguaje.html) | [Siguiente tema]()
